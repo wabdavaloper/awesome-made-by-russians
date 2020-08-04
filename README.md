@@ -161,6 +161,12 @@
 - **[Teamlead Roadmap](https://github.com/tlbootcamp/tlroadmap)** by [Egor Tolstoy](https://github.com/etolstoy) and [Stanislav Tsyganov](https://github.com/DevAlloy)<br>
   A curated collection of videos, articles and books for studying the profession of a team leader.
 
+- **[Tiny RayTracer](https://github.com/ssloy/tinyraytracer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
+  A brief computer graphics / rendering course about RayTracing.
+  
+- **[Tiny Renderer](https://github.com/ssloy/tinyrenderer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
+  A brief computer graphics / rendering course about OpenGL.
+
 ## > 1k ★
 
 - **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
@@ -249,6 +255,12 @@
   
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
+
+- **[Tiny KABOOM!](https://github.com/ssloy/tinykaboom)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
+  A brief computer graphics / rendering course about KABOOM!
+
+- **[Tiny Raycaster](https://github.com/ssloy/tinyraycaster)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
+  486 lines of C++: old-school FPS in a weekend.
 
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   The strictest and most opinionated Python linter ever!
