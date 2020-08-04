@@ -131,6 +131,9 @@
 - **[Hangfire](https://github.com/HangfireIO/Hangfire)** by [Sergey Odinokov](https://github.com/odinserj)<br>
   An easy way to perform background job processing in your .NET and .NET Core applications.
 
+- **[HTMLMinifier](https://github.com/kangax/html-minifier)** by [Juriy Zaytsev](https://github.com/kangax)<br>
+  JavaScript-based HTML compressor/minifier (with Node.js support).
+
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
   
