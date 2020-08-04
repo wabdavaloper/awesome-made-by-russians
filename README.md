@@ -187,6 +187,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[Returns](https://github.com/dry-python/returns)** by [Dry Python](https://github.com/dry-python)<br>
   Make your Python functions return something meaningful, typed, and safe!
 
+- **[RIFM](https://github.com/realadvisor/rifm)** by [Ivan Starkov](https://github.com/istarkov) and [Bogdan Chadkin](https://github.com/TrySound)<br>
+  React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc.
+
 - **[Segmentation Models](https://github.com/qubvel/segmentation_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
 
