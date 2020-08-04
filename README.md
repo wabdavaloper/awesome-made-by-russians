@@ -146,6 +146,9 @@
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
+- **[NopCommerce](https://github.com/nopSolutions/nopCommerce)** by [Nop Solutions](https://github.com/nopSolutions)<br>
+  An open-source eCommerce shopping cart solution based on ASP.NET Core.
+
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
