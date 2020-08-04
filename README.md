@@ -129,7 +129,10 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)<br>
   A repo with Russian translation of common terms and famous developers names.
-  
+
+- **[Git Secret](https://github.com/sobolevn/git-secret)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
+  A bash-tool to store your private data inside a Git repository.
+
 - **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
   Your Rails variables in your JS.
   
