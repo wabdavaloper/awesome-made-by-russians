@@ -51,7 +51,7 @@
 - **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
   Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
 
-- **[Uppy](https://github.com/transloadit/uppy)** by [Artur Paikin](https://github.com/arturi/), the [Transloadit](https://github.com/transloadit/) team and numerous amazing contributors.<br>
+- **[Uppy](https://github.com/transloadit/uppy)** by [Artur Paikin](https://github.com/arturi/), the [Transloadit](https://github.com/transloadit/) team and numerous amazing contributors<br>
 Modular file uploader for the browser. Resumable uploads, webcam, screen recording, image cropping, Google Drive, Instagram, etc.
 
 ## > 3k ★
@@ -137,7 +137,7 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
   
 - **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
-  High-performance fake data generator for Python
+  High-performance fake data generator for Python.
   
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
