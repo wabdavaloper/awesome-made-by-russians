@@ -92,6 +92,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)<br>
   Nginx configuration static analyzer.
 
+- **[Golang CI Lint](https://github.com/golangci/golangci-lint)** by [Denis Isaev](https://github.com/jirfag)<br>
+  Fast linters runner for Go.
+
 - **[Google Map React](https://github.com/google-map-react/google-map-react)** by [Ivan Starkov](https://github.com/istarkov)<br>
   React library for Google Maps that allows rendering components as markers.
 
