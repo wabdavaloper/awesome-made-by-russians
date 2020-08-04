@@ -44,7 +44,10 @@
 
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
-  
+
+- **[PHP Parser](https://github.com/nikic/PHP-Parser)** by [Nikita Popov](https://github.com/nikic)<br>
+  A PHP parser written in PHP.
+
 - **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)<br>
   Tool for transforming styles with JS plugins.
   
