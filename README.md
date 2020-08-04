@@ -292,6 +292,9 @@
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog/wouter)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
 
+- **[Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)** by [Alexander Makarov](https://github.com/samdark)<br>
+  An open source book full of tips and tricks about Yii 2.0 PHP framework.
+
 - The place for your next great pet project!
   
 ## But why?
