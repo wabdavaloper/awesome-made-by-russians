@@ -185,6 +185,9 @@
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   A Zsh theme.
 
+- **[Python-mode](https://github.com/python-mode/python-mode)** by [Kirill Klenov](https://github.com/klen)<br>
+  Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
+
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
