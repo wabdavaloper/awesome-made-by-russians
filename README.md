@@ -36,6 +36,9 @@
 - **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)<br>
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
 
+- **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
+  Modern JavaScript Tutorial.
+
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
   
