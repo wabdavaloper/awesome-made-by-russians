@@ -104,6 +104,9 @@
 - **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
   Easing Functions Cheat Sheet.
 
+- **[CompatTable](https://github.com/kangax/compat-table)** by [Juriy Zaytsev](https://github.com/kangax)<br>
+  ECMAScript 5/6/7 compatibility tables.
+
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
   
