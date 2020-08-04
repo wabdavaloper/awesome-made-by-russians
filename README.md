@@ -94,7 +94,10 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)<br>
   Simple and clean SVG icon pack.
-  
+
+- **[FastRoute](https://github.com/nikic/FastRoute)** by [Nikita Popov](https://github.com/nikic)<br>
+  Fast request router for PHP.
+
 - **[FileAPI](https://github.com/mailru/FileAPI)** by [Mail.Ru Group](https://github.com/mailru)<br>
   Set of JavaScript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
   
