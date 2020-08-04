@@ -60,6 +60,9 @@
 - **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** by [Dan Abramov](https://github.com/gaearon)<br>
   Tweak React components in real time.
   
+- **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
+  Redis Java client with features of In-Memory Data Grid.
+  
 - **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Most modern mobile touch slider with hardware accelerated transitions.
   
