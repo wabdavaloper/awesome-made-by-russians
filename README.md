@@ -176,6 +176,9 @@
 - **[NopCommerce](https://github.com/nopSolutions/nopCommerce)** by [Nop Solutions](https://github.com/nopSolutions)<br>
   An open-source eCommerce shopping cart solution based on ASP.NET Core.
 
+- **[Nuke](https://github.com/kean/Nuke)** by [Alex Grebenyuk](https://github.com/kean)<br>
+  Powerful image loading and caching system.
+
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
@@ -210,6 +213,9 @@
 
 - **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
   Data science interview questions and answers.
+  
+- **[DFImageManager](https://github.com/kean/DFImageManager)** by [Alex Grebenyuk](https://github.com/kean)<br>
+  Advanced Objective-C framework for loading, caching, processing, displaying and preheating images..
   
 - **[DiDOM](https://github.com/Imangazaliev/DiDOM)** by [Muhammad Imangazaliev](https://github.com/Imangazaliev)<br>
   Simple and fast HTML parser.
