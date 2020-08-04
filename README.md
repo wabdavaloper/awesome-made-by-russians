@@ -232,6 +232,9 @@
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Implementation of EfficientNet model. Keras and TensorFlow Keras.
   
+- **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
+  Scala combinator library for building Finagle HTTP services.
+  
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)<br>
   A simple, stunning, powerful jQuery gallery.
   
@@ -273,6 +276,9 @@
 
 - **[RIFM](https://github.com/realadvisor/rifm)** by [Ivan Starkov](https://github.com/istarkov) and [Bogdan Chadkin](https://github.com/TrySound)<br>
   React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc.
+
+- **[Scalacaster](https://github.com/vkostyukov/scalacaster)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
+  Purely Functional Algorithms and Data Structures in Scala.
 
 - **[Segmentation Models](https://github.com/qubvel/segmentation_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
