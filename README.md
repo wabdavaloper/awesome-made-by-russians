@@ -73,6 +73,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
+  
+- **[DeepPavlov] (https://github.com/deepmipt/DeepPavlov)** by [Fedor Ignatov] (https://github.com/IgnatovFedor)<br>
+  An open-source conversational AI library built on TensorFlow and Keras.
 
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
