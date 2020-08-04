@@ -244,6 +244,9 @@
 - **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
   Your Rails variables in your JS.
   
+- **[Jquerymy](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
+  A lightweight jQuery plugin for complex two-way data binding.
+  
 - **[Lefthook](https://github.com/Arkweid/lefthook)** by [Abroskin Alexander](https://github.com/Arkweid)<br>
   Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
   
