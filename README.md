@@ -137,6 +137,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[Size Limit](https://github.com/ai/size-limit)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tool for JavaScript that checks every commit on CI, calculates the real cost of JS for end-users and throws an error if the cost exceeds the limit.
 
+- **[Teamlead Roadmap](https://github.com/tlbootcamp/tlroadmap)** by [Egor Tolstoy](https://github.com/etolstoy) and [Stanislav Tsyganov](https://github.com/DevAlloy)<br>
+  A curated collection of videos, articles and books for studying the profession of a team leader.
+
 ## > 1k ★
 
 - **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
