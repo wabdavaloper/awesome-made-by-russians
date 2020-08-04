@@ -145,6 +145,9 @@
 
 - **[HTMLMinifier](https://github.com/kangax/html-minifier)** by [Juriy Zaytsev](https://github.com/kangax)<br>
   JavaScript-based HTML compressor/minifier (with Node.js support).
+  
+- **[HTML-GL](https://github.com/pixelscommander/html-gl)** by [Denis Radin](https://github.com/pixelscommander)<br>
+  Render HTML/CSS in WebGL for a better performance and unlimited visual effects.
 
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
