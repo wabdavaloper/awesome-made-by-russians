@@ -277,6 +277,9 @@
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   The strictest and most opinionated Python linter ever!
 
+- **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog/wouter)<br>
+  A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
+
 - The place for your next great pet project!
   
 ## But why?
