@@ -36,6 +36,9 @@
 - **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Full featured HTML framework for building iOS & Android apps.
   
+- **[GoReplay](https://github.com/buger/goreplay)** by [Leonid Bugaev](https://github.com/buger)<br>
+  An open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
+  
 - **[Highlight.js](https://github.com/highlightjs/highlight.js)** by [Ivan Sagalaev](https://github.com/isagalaev)<br>
   JavaScript syntax highlighter.
   
