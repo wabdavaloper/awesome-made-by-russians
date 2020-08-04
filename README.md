@@ -27,6 +27,9 @@
 - **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock/core-js)<br>
   Modular standard library for JavaScript.
   
+- **[Editor.js](https://github.com/codex-team/editor.js)** by [Codex Team](https://editorjs.io/)<br>
+  API-oriented, block-styled editor for Media. Generates useful JSON-output with clear data. 
+  
 - **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Full featured HTML framework for building iOS & Android apps.
   
