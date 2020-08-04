@@ -37,7 +37,7 @@
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
 
 - **[Memcached](https://github.com/memcached/memcached)** by [Anatoly Vorobey](https://avva.livejournal.com/profile)<br>
-  Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
+  A high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
 
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
