@@ -77,6 +77,9 @@
 - **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)<br>
   Nginx configuration static analyzer.
 
+- **[Google Map React](https://github.com/google-map-react/google-map-react)** by [Ivan Starkov](https://github.com/istarkov)<br>
+  React library for google map that allows rendering components as markers.
+
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
   
