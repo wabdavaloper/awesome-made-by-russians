@@ -223,6 +223,9 @@
 - **[Lefthook](https://github.com/Arkweid/lefthook)** by [Abroskin Alexander](https://github.com/Arkweid)<br>
   Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
   
+- **[LuaFun](https://github.com/luafun/luafun)** by [Roman Tsisyk](https://github.com/rtsisyk)<br>
+  A high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
+  
 - **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   High-performance fake data generator for Python.
   
