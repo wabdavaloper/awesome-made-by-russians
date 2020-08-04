@@ -162,6 +162,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 
 - **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
   Data science interview questions and answers.
+  
+- **[DiDOM](https://github.com/Imangazaliev/DiDOM)** by [Muhammad Imangazaliev](https://github.com/Imangazaliev)<br>
+  Simple and fast HTML parser.
 
 - **[EasyJSON](https://github.com/mailru/easyjson)** by [Mail.Ru Group](https://github.com/mailru)<br>
   Fast JSON serializer for Go.
