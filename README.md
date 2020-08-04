@@ -36,9 +36,6 @@
 - **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)<br>
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
 
-- **[Memcached](https://github.com/memcached/memcached)** by [Anatoly Vorobey](https://avva.livejournal.com/profile)<br>
-  A high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
-
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
   
@@ -218,15 +215,15 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 ## But why?
 
-Actually, a lot of developers in Russia do not know about these projects and the fact that their authors are also Russian or post USSR programmers.
+A lot of developers in Russia do not know about these projects and the fact that their authors are also Russian programmers. It warms your heart when you understand that a lot of highly popular and useful projects are made by “cold and gloomy” Russians.
 
-It warms your heart when you understand that a lot of highly popular and useful projects are made by “cold and gloomy” Russians.
-
-The trigger is [this tweet](https://twitter.com/fobbyal/status/1290311704803340288) by [@fobbyal](https://github.com/fobbyal):
+[This tweet](https://twitter.com/fobbyal/status/1290311704803340288) by [@fobbyal](https://github.com/fobbyal):
 
 > Is there a cool open source project mainly contributed by Russian developers?
 
-The goal of the project is to highlight how modern software is a product of global culture. There are many different nations in your `package-lock.json`, or `Gemfile.lock`, or elsewhere. And we are highlighting the Russian part just because we know it better. ([#2](https://github.com/igoradamenko/awesome-made-in-russia/issues/2))
+...triggered us to create this repo. 
+
+The goal of the project is to show how modern software is a product of global culture. There are many different nations in your `package-lock.json`, or `Gemfile.lock`, or elsewhere. And we are highlighting the Russian part just because we know it better ([#2](https://github.com/igoradamenko/awesome-made-in-russia/issues/2)).
 
 ## Contributing 
 
