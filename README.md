@@ -137,6 +137,9 @@
 - **[Google Map React](https://github.com/google-map-react/google-map-react)** by [Ivan Starkov](https://github.com/istarkov)<br>
   React library for Google Maps that allows rendering components as markers.
 
+- **[Gruvbox](https://github.com/morhetz/gruvbox)** by [Pavel Pertsev](https://github.com/morhetz)<br>
+  Retro groove color scheme for Vim and [other text editors](https://github.com/morhetz/gruvbox-contrib).
+
 - **[Hangfire](https://github.com/HangfireIO/Hangfire)** by [Sergey Odinokov](https://github.com/odinserj)<br>
   An easy way to perform background job processing in your .NET and .NET Core applications.
 
