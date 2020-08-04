@@ -58,6 +58,8 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 
 - **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   A small indicator for macOS menubar.
+  
+- **[Awesomo](https://github.com/lk-geimfari/awesomo)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
 
 - **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)<br>
   The config to share target browsers and Node.js versions between different front-end tools.
