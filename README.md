@@ -139,6 +139,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)<br>
   An effective multi-store state manager for JavaScript apps.
   
+- **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
+  Implementation of EfficientNet model. Keras and TensorFlow Keras.
+  
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)<br>
   A simple, stunning, powerful jQuery gallery.
   
@@ -171,6 +174,12 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 
 - **[Returns](https://github.com/dry-python/returns)** by [Dry Python](https://github.com/dry-python)<br>
   Make your Python functions return something meaningful, typed, and safe!
+
+- **[Segmentation Models](https://github.com/qubvel/segmentation_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
+  Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
+
+- **[Segmentation Models (PyTorch)](https://github.com/qubvel/segmentation_models.pytorch)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
+  Segmentation models with pretrained backbones. PyTorch.
 
 - **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
   A Photoshop script that makes measurement marks.
