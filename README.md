@@ -27,6 +27,9 @@
 - **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock/core-js)<br>
   Modular standard library for JavaScript.
   
+- **[Date FNS](https://github.com/date-fns/date-fns)** by [Sasha Koss](https://github.com/kossnocorp) & [Lesha Koss](https://github.com/leshakoss)<br>
+  Modern JavaScript date utility library.
+  
 - **[Editor.js](https://github.com/codex-team/editor.js)** by [Codex Team](https://github.com/codex-team)<br>
   API-oriented, block-styled editor for Media. Generates useful JSON-output with clear data. 
   
