@@ -179,6 +179,9 @@
 - **[Nuke](https://github.com/kean/Nuke)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Powerful image loading and caching system.
 
+- **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
+  A Zsh theme.
+
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
