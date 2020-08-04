@@ -166,6 +166,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
 
+- **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
+  The strictest and most opinionated Python linter ever!
+
 - The place for your next great pet project!
   
 ## But why?
