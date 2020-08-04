@@ -153,7 +153,10 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
   A tool to transform HTML/XML with JS plugins.
-  
+
+- **[Returns](https://github.com/dry-python/returns)** by [Dry Python](https://github.com/dry-python)<br>
+  Make your Python functions return something meaningful, typed, and safe!
+
 - **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
   A Photoshop script that makes measurement marks.
   
