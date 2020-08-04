@@ -21,6 +21,9 @@
 - **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)<br>
   PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
   
+- **[Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)** by [Alexander Bayandin](https://github.com/bayandin)<br>
+  A curated list of awesome awesomeness.
+  
 - **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** by [Yandex](https://github.com/yandex)<br>
   A free analytics DBMS for big data.
   
