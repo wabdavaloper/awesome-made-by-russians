@@ -95,6 +95,9 @@
 - **[DeepPavlov](https://github.com/deepmipt/DeepPavlov)** by [Neural Networks and Deep Learning lab, MIPT](https://github.com/deepmipt)<br>
   An open-source conversational AI library built on TensorFlow and Keras.
 
+- **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
+  Easing Functions Cheat Sheet.
+
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
   
