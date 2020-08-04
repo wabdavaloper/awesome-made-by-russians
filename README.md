@@ -79,6 +79,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)<br>
   Simple and clean SVG icon pack.
+  
+- **[Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)** by [Andrey Romanov](https://github.com/andrew--r)<br>
+  A curated list of technical talks and articles about real-world enterprise frontend development.
 
 - **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)<br>
   Nginx configuration static analyzer.
