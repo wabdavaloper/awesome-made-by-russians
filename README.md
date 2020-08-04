@@ -60,8 +60,11 @@
 - **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
   Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
 
-- **[Uppy](https://github.com/transloadit/uppy)** by [Artur Paikin](https://github.com/arturi/), the [Transloadit](https://github.com/transloadit/) team and numerous amazing contributors<br>
-Modular file uploader for the browser. Resumable uploads, webcam, screen recording, image cropping, Google Drive, Instagram, etc.
+- **[Uppy](https://github.com/transloadit/uppy)** by [Artur Paikin](https://github.com/arturi), the [Transloadit](https://github.com/transloadit) team & contributors<br>
+  Modular file uploader for the browser. Resumable uploads, webcam, screen recording, image cropping, Google Drive, Instagram, etc.
+
+- **[WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)** by [Maxim Gumin](https://github.com/mxgmn)<br>
+  Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 
 ## > 3k ★
 
