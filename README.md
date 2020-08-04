@@ -65,6 +65,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[CatBoost](https://github.com/catboost/catboost)** by [Yandex](https://github.com/yandex)<br>
   A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other ML tasks.
 
+- **[Centrifugo](https://github.com/centrifugal/centrifugo)** by [Alexander Emelin](https://github.com/FZambia)<br>
+  Scalable real-time messaging server in language-agnostic way.
+
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
   
