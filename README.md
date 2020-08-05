@@ -282,7 +282,10 @@
   
 - **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   High-performance fake data generator for Python.
-  
+
+- **[MTMR](https://github.com/Toxblh/MTMR)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) & [Daniel Apatin](https://github.com/ad)<br>
+  The Touch Bar Customisation App for your MacBook Pro.
+
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
   
