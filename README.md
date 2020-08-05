@@ -226,6 +226,9 @@
 - **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography/)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   A curated list of cryptography resources and links.
 
+- **[Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)** by [Alexander Myshov](https://github.com/myshov)<br>
+  A curated list of awesome resources for mobile web development.
+  
 - **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
   Simple CSS library for semantic HTML markup.
 
