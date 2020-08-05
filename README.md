@@ -247,6 +247,9 @@
 - **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
   Data science interview questions and answers.
   
+- **[Dephell](https://github.com/dephell/dephell)** by [Nikita Voronov](https://github.com/orsinium)<br>
+  Python project management.
+  
 - **[DFImageManager](https://github.com/kean/DFImageManager)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Advanced Objective-C framework for loading, caching, processing, displaying and preheating images..
   
@@ -342,6 +345,9 @@
   
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
+
+- **[TextDistance](https://github.com/life4/textdistance)** [Nikita Voronov](https://github.com/orsinium)<br>
+  Compute distance between sequences.
 
 - **[Tiny KABOOM!](https://github.com/ssloy/tinykaboom)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about KABOOM!
