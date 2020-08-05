@@ -313,6 +313,9 @@
 - **[Tarantool](https://github.com/tarantool/tarantool)** by [Mail.Ru Group](https://github.com/mailru)<br>
   An in-memory database and application server.
   
+- **[TeaVM](https://github.com/konsoletyper/teavm)** by [Alexey Andreev](https://github.com/konsoletyper)<br>
+  Compiler of Java bytecode to JavaScript.
+  
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
 
