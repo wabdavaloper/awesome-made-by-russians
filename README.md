@@ -159,7 +159,7 @@
   Render HTML/CSS in WebGL for a better performance and unlimited visual effects.
   
 - **[iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)** by [Artem Novichkov](https://github.com/artemnovichkov)<br>
-  👨🏻‍💻 Examples of new iOS 11 APIs
+  Examples of new iOS 11 APIs.
 
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
