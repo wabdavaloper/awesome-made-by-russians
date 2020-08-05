@@ -97,6 +97,10 @@
 
 - **[Centrifugo](https://github.com/centrifugal/centrifugo)** by [Alexander Emelin](https://github.com/FZambia)<br>
   Scalable real-time messaging server in language-agnostic way.
+  
+- **[Cerebro](https://github.com/KELiON/cerebro)** by [Alexandr Subbotin](https://github.com/KELiON)<br>
+  Cross-plaform modular launcher app like Spotlight and Alfred.
+
 
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
