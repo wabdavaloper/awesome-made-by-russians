@@ -10,8 +10,8 @@
 - **[Kotlin](https://github.com/JetBrains/kotlin)** by [JetBrains](https://github.com/JetBrains)<br>
   Programming language.
 
-- **[OpenCV](https://github.com/opencv/opencv)** by [Intel](https://github.com/intel)<br>
-  Most popular computer vision software library.
+- **[OpenCV](https://github.com/opencv/opencv)** by [Intel Russla](https://github.com/intel)<br>
+  Most popular computer vision software library and [extra modules](https://github.com/opencv/opencv_contrib) for it.
 
 - **[Redux](https://github.com/reduxjs/redux)** by [Dan Abramov](https://github.com/gaearon)<br>
   Predictable state container for JavaScript apps.
@@ -100,6 +100,9 @@
 
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
+  
+- **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
+  Powerful and efficient Computer Vision Annotation Tool.
   
 - **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
