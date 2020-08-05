@@ -304,6 +304,9 @@
 - **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)<br>
   Ruby parser written in pure Ruby.
   
+- **[Pony](https://github.com/ponyorm/pony)** by [Alexander Kozlovsky](https://github.com/kozlovsky) and [Alexey Malashkevich](https://github.com/amalashkevich)<br>
+  An advanced object-relational mapper for Python.
+  
 - **[PostCSS Modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)<br>
   PostCSS plugin to use CSS Modules everywhere.
   
