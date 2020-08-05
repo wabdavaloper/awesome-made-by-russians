@@ -69,6 +69,9 @@
 - **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Redis Java client with features of In-Memory Data Grid.
   
+- **[SVGO](https://github.com/svg/svgo)** by [Lev Solntsev](https://github.com/GreLI)
+  SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
+  
 - **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Most modern mobile touch slider with hardware accelerated transitions.
   
