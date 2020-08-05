@@ -214,6 +214,9 @@
 - **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server.
 
+- **[Awesome Clojure](https://github.com/razum2um/awesome-clojure)** by [Vlad Bokov](https://github.com/razum2um)<br>
+  A curated list of awesome Clojure libraries and resources.
+
 - **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography/)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   A curated list of cryptography resources and links.
 
