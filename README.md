@@ -10,6 +10,9 @@
 - **[Kotlin](https://github.com/JetBrains/kotlin)** by [JetBrains](https://github.com/JetBrains)<br>
   Programming language.
 
+- **[OpenCV](https://github.com/opencv/opencv)** by [Intel](https://github.com/intel)<br>
+  Most popular computer vision software library.
+
 - **[Redux](https://github.com/reduxjs/redux)** by [Dan Abramov](https://github.com/gaearon)<br>
   Predictable state container for JavaScript apps.
 
