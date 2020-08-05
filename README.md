@@ -54,6 +54,9 @@
 - **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
   Modern JavaScript Tutorial.
 
+- **[markdown-it](https://github.com/markdown-it/markdown-it)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
+  Markdown parser done right. Fast and easy to extend.
+
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
 
@@ -197,6 +200,9 @@
 - **[Nuke](https://github.com/kean/Nuke)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Powerful image loading and caching system.
 
+- **[pako](https://github.com/nodeca/pako)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
+  zlib port to javascript, very fast!
+
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   A Zsh theme.
 
@@ -246,9 +252,6 @@
 
 - **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
   Data science interview questions and answers.
-  
-- **[Dephell](https://github.com/dephell/dephell)** by [Nikita Voronov](https://github.com/orsinium)<br>
-  Python project management.
   
 - **[DFImageManager](https://github.com/kean/DFImageManager)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Advanced Objective-C framework for loading, caching, processing, displaying and preheating images..
@@ -304,9 +307,6 @@
 - **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)<br>
   Ruby parser written in pure Ruby.
   
-- **[Pony](https://github.com/ponyorm/pony)** by [Alexander Kozlovsky](https://github.com/kozlovsky) and [Alexey Malashkevich](https://github.com/amalashkevich)<br>
-  An advanced object-relational mapper for Python.
-  
 - **[PostCSS Modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)<br>
   PostCSS plugin to use CSS Modules everywhere.
   
@@ -348,9 +348,6 @@
   
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
-
-- **[TextDistance](https://github.com/life4/textdistance)** [Nikita Voronov](https://github.com/orsinium)<br>
-  Compute distance between sequences.
 
 - **[Tiny KABOOM!](https://github.com/ssloy/tinykaboom)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about KABOOM!
