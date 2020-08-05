@@ -232,6 +232,9 @@
 - **[Big-O Poster](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
 
+- **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
+  Common words for CSS selectors.
+
 - **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
   Data science interview questions and answers.
   
