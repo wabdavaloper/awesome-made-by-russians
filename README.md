@@ -54,7 +54,7 @@
 - **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
   Modern JavaScript Tutorial.
 
-- **[markdown-it](https://github.com/markdown-it/markdown-it)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
+- **[Markdown it](https://github.com/markdown-it/markdown-it)** by [Vitaly Puzrin](https://github.com/puzrin) & [Alex Kocharin](https://github.com/rlidwka)<br>
   Markdown parser done right. Fast and easy to extend.
 
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
@@ -200,8 +200,8 @@
 - **[Nuke](https://github.com/kean/Nuke)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Powerful image loading and caching system.
 
-- **[pako](https://github.com/nodeca/pako)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
-  zlib port to javascript, very fast!
+- **[Pako](https://github.com/nodeca/pako)** by [Vitaly Puzrin](https://github.com/puzrin) & [Andrei Tupitcyn](https://github.com/andr83)<br>
+  High speed zlib port to JavaScript, works in browser & Node.js.
 
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   A Zsh theme.
