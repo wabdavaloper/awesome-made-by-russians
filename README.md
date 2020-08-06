@@ -89,7 +89,7 @@
 
 ## > 3k ★
 
-- **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://albumentations.ai/team)<br>
+- **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://github.com/albumentations-team)<br>
   Fast image augmentation library and easy to use wrapper around other libraries.
 
 - **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)<br>
