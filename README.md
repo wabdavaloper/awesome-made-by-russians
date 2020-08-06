@@ -89,6 +89,9 @@
 
 ## > 3k ★
 
+- **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://albumentations.ai/team)<br>
+  Fast image augmentation library and easy to use wrapper around other libraries.
+
 - **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   A small indicator for macOS menubar.
   
@@ -249,6 +252,9 @@
 
 - **[Big-O Poster](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
+
+- **[Catalyst](https://github.com/catalyst-team/catalyst)** by [Catalyst Team](https://github.com/catalyst-team)<br>
+  PyTorch framework for Deep Learning research and development.
 
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
