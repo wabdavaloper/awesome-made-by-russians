@@ -10,7 +10,7 @@
 - **[Kotlin](https://github.com/JetBrains/kotlin)** by [JetBrains](https://github.com/JetBrains)<br>
   Programming language.
 
-- **[OpenCV](https://github.com/opencv/opencv)** by [Intel Russla](https://github.com/intel)<br>
+- **[OpenCV](https://github.com/opencv/opencv)** by [Intel Russia](https://github.com/intel)<br>
   Most popular computer vision software library and [extra modules](https://github.com/opencv/opencv_contrib) for it.
 
 - **[Redux](https://github.com/reduxjs/redux)** by [Dan Abramov](https://github.com/gaearon)<br>
