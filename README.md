@@ -277,6 +277,9 @@
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Implementation of EfficientNet model. Keras and TensorFlow Keras.
   
+- **[Everpad](https://github.com/nvbn/everpad)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
+  Evernote client well integrated with Linux desktop.
+  
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
   
