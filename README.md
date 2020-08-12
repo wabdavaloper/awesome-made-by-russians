@@ -134,6 +134,9 @@
 - **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)<br>
   Simple and clean SVG icon pack.
 
+- **[Exposed](https://github.com/JetBrains/Exposed)** by [JetBrains](https://github.com/JetBrains)<br>
+  Kotlin SQL Framework.
+
 - **[FastRoute](https://github.com/nikic/FastRoute)** by [Nikita Popov](https://github.com/nikic)<br>
   Fast request router for PHP.
 
@@ -169,6 +172,9 @@
   
 - **[iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)** by [Artem Novichkov](https://github.com/artemnovichkov)<br>
   Examples of new iOS 11 APIs.
+  
+- **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
+  Fast and secure standalone server for resizing and converting remote images.
 
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
@@ -179,14 +185,14 @@
 - **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
   Authoring tool for CSS which uses JavaScript as a host language.
 
-- **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
-  Fast and secure standalone server for resizing and converting remote images.
-
 - **[KittenPHP](https://github.com/vk-com/kphp-kdb)** by [VK](https://github.com/vkcom)<br>
   Efficient PHP-to-C++ translator.
 
 - **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+  
+- **[Kotlin Native](https://github.com/JetBrains/kotlin-native)** by [JetBrains](https://github.com/JetBrains)<br>
+  Kotlin/Native infrastructure.
 
 - **[LibreTaxi](https://github.com/ro31337/libretaxi)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Uber proof-of-concept that works though Telegram.
@@ -333,6 +339,9 @@
 
 - **[RIFM](https://github.com/realadvisor/rifm)** by [Ivan Starkov](https://github.com/istarkov) and [Bogdan Chadkin](https://github.com/TrySound)<br>
   React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc.
+
+- **[Ring UI](https://github.com/JetBrains/ring-ui)** by [JetBrains](https://github.com/JetBrains)<br>
+  A collection of JetBrains Web UI components.
 
 - **[Scalacaster](https://github.com/vkostyukov/scalacaster)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Purely Functional Algorithms and Data Structures in Scala.
