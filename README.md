@@ -352,6 +352,9 @@
 - **[StreamEx](https://github.com/amaembo/streamex)** by [Tagir Valeev](https://github.com/amaembo)<br>
   Enhancing Java Stream API.
   
+- **[SVG Sprite Loader](https://github.com/JetBrains/svg-sprite-loader)** by [Stas Kurilov](https://github.com/kisenka)<br>
+  Webpack loader for creating SVG sprites.
+  
 - **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)<br>
   A primitive CSS framework for those who don't know anything about graphic design but want their web services to look eatable. No classes, no layouts.
   
