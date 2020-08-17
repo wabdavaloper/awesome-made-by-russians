@@ -262,6 +262,9 @@
 - **[Catalyst](https://github.com/catalyst-team/catalyst)** by [Catalyst Team](https://github.com/catalyst-team)<br>
   PyTorch framework for Deep Learning research and development.
 
+- **[CRIU (Checkpoint and Restore In Userspace)](https://github.com/checkpoint-restore/criu)** by Virtuozzo<br>
+  Checkpoint/Restore Tool.
+
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
 
