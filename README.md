@@ -357,6 +357,9 @@
 
 - **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
   A Photoshop script that makes measurement marks.
+
+- **[Sphinx](https://github.com/sphinxsearch/sphinx)** by [Andrew Aksyonoff](https://github.com/shodanium)<br>
+  A full text search server.
   
 - **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte.
