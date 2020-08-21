@@ -212,6 +212,9 @@
 - **[Nuke](https://github.com/kean/Nuke)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Powerful image loading and caching system.
 
+- **[Overreacted.io](https://github.com/gaearon/overreacted.io)** by [Dav Abramov](https://github.com/gaearon)<br>
+  Personal blog by Dan Abramov.
+
 - **[Pako](https://github.com/nodeca/pako)** by [Vitaly Puzrin](https://github.com/puzrin) & [Andrei Tupitcyn](https://github.com/andr83)<br>
   High speed zlib port to JavaScript, works in browser & Node.js.
 
@@ -220,6 +223,12 @@
 
 - **[Python-mode](https://github.com/python-mode/python-mode)** by [Kirill Klenov](https://github.com/klen)<br>
   Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
+
+- **[React Hot Boilerplate](https://github.com/gaearon/react-hot-boilerplate)** by [Dav Abramov](https://github.com/gaearon)<br>
+  Minimal live-editing example for React.
+  
+- **[React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate)** by [Dav Abramov](https://github.com/gaearon)<br>
+  A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
 
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
@@ -292,6 +301,9 @@
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
   
+- **[Flux React Router Example](https://github.com/gaearon/flux-react-router-example)** by [Dav Abramov](https://github.com/gaearon)<br>
+  A sample app showcasing Flux with React Router.
+  
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)<br>
   A simple, stunning, powerful jQuery gallery.
   
@@ -336,6 +348,15 @@
   
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
   A tool to transform HTML/XML with JS plugins.
+
+- **[React Document Title](https://github.com/gaearon/react-document-title)** by [Dav Abramov](https://github.com/gaearon)<br>
+  Declarative, nested, stateful, isomorphic document.title for React.
+
+- **[React Makes You Sad](https://github.com/gaearon/react-makes-you-sad)** by [Dav Abramov](https://github.com/gaearon)<br>
+  Here’s a flowchart to make you happy again!
+
+- **[React Side Effect](https://github.com/gaearon/react-side-effect)** by [Dav Abramov](https://github.com/gaearon)<br>
+  Create components whose nested prop changes map to a global side effect.
 
 - **[Returns](https://github.com/dry-python/returns)** by [Dry Python](https://github.com/dry-python)<br>
   Make your Python functions return something meaningful, typed, and safe!
@@ -393,6 +414,9 @@
   
 - **[Werf](https://github.com/werf/werf)** by [Flant](https://github.com/flant)<br>
   GitOps CI/CD tool, for containers and Kubernetes.
+
+- **[WhatTheFuck.Is](https://github.com/gaearon/whatthefuck.is)** by [Dav Abramov](https://github.com/gaearon)<br>
+  An opinionated glossary of computer science terms for front-end developers.
 
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog/wouter)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
