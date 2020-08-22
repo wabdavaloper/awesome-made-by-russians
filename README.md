@@ -224,12 +224,6 @@
 - **[Python-mode](https://github.com/python-mode/python-mode)** by [Kirill Klenov](https://github.com/klen)<br>
   Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 
-- **[React Hot Boilerplate](https://github.com/gaearon/react-hot-boilerplate)** by [Dav Abramov](https://github.com/gaearon)<br>
-  Minimal live-editing example for React.
-  
-- **[React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate)** by [Dav Abramov](https://github.com/gaearon)<br>
-  A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
-
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
