@@ -30,7 +30,7 @@
 - **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** by [Yandex](https://github.com/yandex)<br>
   A free analytics DBMS for big data.
   
-- **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock/core-js)<br>
+- **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock)<br>
   Modular standard library for JavaScript.
   
 - **[Date FNS](https://github.com/date-fns/date-fns)** by [Sasha Koss](https://github.com/kossnocorp) & [Lesha Koss](https://github.com/leshakoss)<br>
@@ -283,7 +283,7 @@
 - **[EasyJSON](https://github.com/mailru/easyjson)** by [Mail.Ru Group](https://github.com/mailru)<br>
   Fast JSON serializer for Go.
 
-- **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)<br>
+- **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias)<br>
   An effective multi-store state manager for JavaScript apps.
   
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
@@ -412,7 +412,7 @@
 - **[WhatTheFuck.Is](https://github.com/gaearon/whatthefuck.is)** by [Dav Abramov](https://github.com/gaearon)<br>
   An opinionated glossary of computer science terms for front-end developers.
 
-- **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog/wouter)<br>
+- **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
 
 - **[Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)** by [Alexander Makarov](https://github.com/samdark)<br>
