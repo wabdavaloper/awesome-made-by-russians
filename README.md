@@ -50,6 +50,9 @@
   
 - **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)<br>
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
+  
+- **[IntelliJ Plugins](https://github.com/JetBrains/intellij-plugins)** by [JetBrains](https://github.com/JetBrains)<br>
+  Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform.
 
 - **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
   Modern JavaScript Tutorial.
@@ -330,6 +333,9 @@
   
 - **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   High-performance fake data generator for Python.
+
+- **[MPS](https://github.com/JetBrains/MPS)** by [JetBrains](https://github.com/JetBrains)<br>
+  JetBrains Meta Programming System.
 
 - **[MTMR](https://github.com/Toxblh/MTMR)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) & [Daniel Apatin](https://github.com/ad)<br>
   The Touch Bar Customisation App for your MacBook Pro.
