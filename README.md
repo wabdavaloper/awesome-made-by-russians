@@ -292,6 +292,9 @@
 - **[CRIU (Checkpoint and Restore In Userspace)](https://github.com/checkpoint-restore/criu)** by Virtuozzo<br>
   Checkpoint/Restore Tool.
 
+- **[Cocaine](https://github.com/cocaine/cocaine-core)** by [Andrey Sibirev](https://github.com/kobolog)<br>
+  An open platform to build your own PaaS clouds.
+
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
 
