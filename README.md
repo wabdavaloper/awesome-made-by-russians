@@ -221,6 +221,9 @@
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
+- **[NLP course](https://github.com/yandexdataschool/nlp_course)** by [YSDA](https://github.com/yandexdataschool)<br>
+  Yandex School of Data Analysis course in Natural Language Processing.
+
 - **[NopCommerce](https://github.com/nopSolutions/nopCommerce)** by [Nop Solutions](https://github.com/nopSolutions)<br>
   An open-source eCommerce shopping cart solution based on ASP.NET Core.
 
@@ -236,7 +239,7 @@
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   A Zsh theme.
 
-- **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [Yandex](https://github.com/yandex) & HSE<br>
+- **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [YSDA](https://github.com/yandexdataschool) & HSE<br>
   A course in reinforcement learning in the wild.
 
 - **[Python-mode](https://github.com/python-mode/python-mode)** by [Kirill Klenov](https://github.com/klen)<br>
