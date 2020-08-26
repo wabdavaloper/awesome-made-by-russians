@@ -262,6 +262,9 @@
 
 ## > 1k ★
 
+- **[Allure Framework](https://github.com/allure-framework/allure2)** by [Allure Framework team](https://github.com/allure-framework)<br>
+   A flexible lightweight multi-language test reporting tool.
+
 - **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server.
 
