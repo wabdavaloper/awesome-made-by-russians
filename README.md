@@ -116,6 +116,9 @@
 - **[Cerebro](https://github.com/KELiON/cerebro)** by [Alexandr Subbotin](https://github.com/KELiON)<br>
   Cross-plaform modular launcher app like Spotlight and Alfred.
 
+- **[Channels](https://github.com/andrew--r/channels)** by [Andrey Romanov](https://github.com/andrew--r)<br>
+  A collection of useful YouTube channels for JavaScript developers and web designers.
+
 - **[CompatTable](https://github.com/kangax/compat-table)** by [Juriy Zaytsev](https://github.com/kangax)<br>
   ECMAScript 5/6/7 compatibility tables.
 
