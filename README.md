@@ -331,6 +331,9 @@
 - **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)<br>
   A repo with Russian translation of common terms and famous developers names.
 
+- **[Gemini](https://github.com/gemini-testing/gemini)** by by [Yandex](https://github.com/yandex)<br>
+  A utility for regression testing the visual appearance of web pages.
+
 - **[Git Secret](https://github.com/sobolevn/git-secret)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   A bash-tool to store your private data inside a Git repository.
 
