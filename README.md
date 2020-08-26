@@ -409,6 +409,9 @@
 - **[Tiny Raycaster](https://github.com/ssloy/tinyraycaster)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   486 lines of C++: old-school FPS in a weekend.
 
+- **[Visibility.js](https://github.com/ai/visibilityjs)** by [Andrey Sitnik](https://github.com/ai)<br>
+  Wrapper for the Page Visibility API.
+
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   The strictest and most opinionated Python linter ever!
   
