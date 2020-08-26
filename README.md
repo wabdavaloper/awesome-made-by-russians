@@ -215,6 +215,9 @@
 - **[Macaw](https://github.com/exyte/Macaw)** by [Exyte](https://github.com/exyte)<br>
   Powerful and easy-to-use vector graphics Swift library with SVG support
   
+- **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
+  High-performance fake data generator for Python.
+  
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
@@ -342,9 +345,6 @@
   
 - **[LuaFun](https://github.com/luafun/luafun)** by [Roman Tsisyk](https://github.com/rtsisyk)<br>
   A high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
-  
-- **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
-  High-performance fake data generator for Python.
 
 - **[MPS](https://github.com/JetBrains/MPS)** by [JetBrains](https://github.com/JetBrains)<br>
   JetBrains Meta Programming System.
