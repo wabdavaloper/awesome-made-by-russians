@@ -361,6 +361,9 @@
 - **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)<br>
   Ruby parser written in pure Ruby.
   
+- **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
+  Resize image in browser with high quality and high speed.
+  
 - **[PostCSS Modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)<br>
   PostCSS plugin to use CSS Modules everywhere.
   
