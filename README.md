@@ -55,7 +55,7 @@
   Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform.
 
 - **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
-  Modern JavaScript Tutorial.
+  Modern JavaScript Tutorial in English. There're also highly popular [Chinese](https://github.com/javascript-tutorial/zh.javascript.info) and [Russian](https://github.com/javascript-tutorial/ru.javascript.info) versions.
 
 - **[Markdown it](https://github.com/markdown-it/markdown-it)** by [Vitaly Puzrin](https://github.com/puzrin) & [Alex Kocharin](https://github.com/rlidwka)<br>
   Markdown parser done right. Fast and easy to extend.
