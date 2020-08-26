@@ -343,6 +343,9 @@
 - **[MTMR](https://github.com/Toxblh/MTMR)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) & [Daniel Apatin](https://github.com/ad)<br>
   The Touch Bar Customisation App for your MacBook Pro.
 
+- **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
+  A lightweight dynamic open-source server for diverse web applications.
+
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
   
