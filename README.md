@@ -116,6 +116,9 @@
 - **[Cerebro](https://github.com/KELiON/cerebro)** by [Alexandr Subbotin](https://github.com/KELiON)<br>
   Cross-plaform modular launcher app like Spotlight and Alfred.
 
+- **[CompatTable](https://github.com/kangax/compat-table)** by [Juriy Zaytsev](https://github.com/kangax)<br>
+  ECMAScript 5/6/7 compatibility tables.
+
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
   
@@ -130,9 +133,6 @@
 
 - **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
   Easing Functions Cheat Sheet.
-
-- **[CompatTable](https://github.com/kangax/compat-table)** by [Juriy Zaytsev](https://github.com/kangax)<br>
-  ECMAScript 5/6/7 compatibility tables.
 
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
@@ -375,6 +375,9 @@
 
 - **[Ring UI](https://github.com/JetBrains/ring-ui)** by [JetBrains](https://github.com/JetBrains)<br>
   A collection of JetBrains Web UI components.
+
+- **[Rum](https://github.com/tonsky/rum)** by [Nikita Prokopov](https://github.com/tonsky)<br>
+  Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript.
 
 - **[Scalacaster](https://github.com/vkostyukov/scalacaster)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Purely Functional Algorithms and Data Structures in Scala.
