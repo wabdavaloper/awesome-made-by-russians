@@ -355,6 +355,9 @@
 - **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
   A lightweight dynamic open-source server for diverse web applications.
 
+- **[Odyssey](https://github.com/yandex/odyssey)** by [Yandex](https://github.com/yandex)<br>
+  Scalable PostgreSQL connection pooler.
+
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
   
@@ -444,6 +447,9 @@
 
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
+
+- **[Yandex Tank](https://github.com/yandex/yandex-tank)** by [Yandex](https://github.com/yandex)<br>
+  Load and performance benchmark tool.
 
 - **[Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)** by [Alexander Makarov](https://github.com/samdark)<br>
   An open source book full of tips and tricks about Yii 2.0 PHP framework.
