@@ -352,6 +352,9 @@
 - **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)<br>
   Ruby parser written in pure Ruby.
   
+- **[PonyORM](https://github.com/ponyorm/pony)** by [Alexander Kozlovsky](https://github.com/kozlovsky) & [Alexey Malashkevich](https://github.com/amalashkevich)<br>
+  The most pythonic ORM with beautiful query syntax.
+
 - **[PostCSS Modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)<br>
   PostCSS plugin to use CSS Modules everywhere.
   
