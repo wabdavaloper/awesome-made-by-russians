@@ -236,6 +236,9 @@
 - **[Python-mode](https://github.com/python-mode/python-mode)** by [Kirill Klenov](https://github.com/klen)<br>
   Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 
+- **[React Konva](https://github.com/konvajs/react-konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
+  React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
