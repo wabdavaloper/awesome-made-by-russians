@@ -236,6 +236,9 @@
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   A Zsh theme.
 
+- **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [Yandex](https://github.com/yandex) & HSE<br>
+  A course in reinforcement learning in the wild.
+
 - **[Python-mode](https://github.com/python-mode/python-mode)** by [Kirill Klenov](https://github.com/klen)<br>
   Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 
