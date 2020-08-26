@@ -259,6 +259,9 @@
 - **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server.
 
+- **[ARTetris](https://github.com/exyte/ARTetris)** by [Exyte](https://github.com/exyte)<br>
+  Augmented Reality Tetris made with ARKit and SceneKit.
+
 - **[Awesome Clojure](https://github.com/razum2um/awesome-clojure)** by [Vlad Bokov](https://github.com/razum2um)<br>
   A curated list of awesome Clojure libraries and resources.
 
