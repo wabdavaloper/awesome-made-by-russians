@@ -361,9 +361,6 @@
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
   
-- **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)<br>
-  Ruby parser written in pure Ruby.
-  
 - **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   Resize image in browser with high quality and high speed.
   
