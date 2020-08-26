@@ -188,6 +188,9 @@
 - **[JS YAML](https://github.com/nodeca/js-yaml)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   JavaScript YAML parser and dumper. Very fast.
   
+- **[JSON Parser](https://github.com/buger/jsonparser)** by [Leonid Bugaev](https://github.com/buger)<br>
+  One of the fastest alternative JSON parser for Go that does not require schema.
+  
 - **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
   Authoring tool for CSS which uses JavaScript as a host language.
 
