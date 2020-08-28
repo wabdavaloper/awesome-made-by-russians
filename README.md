@@ -349,6 +349,9 @@
 - **[Everpad](https://github.com/nvbn/everpad)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Evernote client well integrated with Linux desktop.
   
+- **[Example microservice app](https://github.com/elgris/microservice-app-example)** by [Ivan Kirichenko](https://github.com/elgris)<br>
+  An example of web application comprising of several components communicating to each other.
+  
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
   
