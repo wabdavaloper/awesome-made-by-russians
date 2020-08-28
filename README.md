@@ -104,6 +104,9 @@
 - **[Awesomo](https://github.com/lk-geimfari/awesomo)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   An extensive list of cool open source projects written in popular programming languages.
 
+- **[Bowser](https://github.com/lancedikson/bowser)** by [Denis Demchenko](https://github.com/lancedikson)<br>
+  A small, fast and rich-API browser/platform/engine detector for both browser and node.
+
 - **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)<br>
   The config to share target browsers and Node.js versions between different front-end tools.
 
