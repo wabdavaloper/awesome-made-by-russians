@@ -309,6 +309,9 @@
 
 - **[Big-O Poster](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
+  
+- **[Bt](https://github.com/atomashpolskiy/bt)** by [Andrei Tomashpolskiy](https://github.com/atomashpolskiy)<br>
+  BitTorrent library and client with DHT, magnet links, encryption and more.
 
 - **[Catalyst](https://github.com/catalyst-team/catalyst)** by [Catalyst Team](https://github.com/catalyst-team)<br>
   PyTorch framework for Deep Learning research and development.
