@@ -409,8 +409,8 @@
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
   A tool to transform HTML/XML with JS plugins.
 
-- **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
-  A tool to transform HTML/XML with JS plugins.
+- **[QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)** by [Artem Zinnatullin](https://github.com/artem-zinnatullin)<br>
+  Android Development Culture.
 
 - **[React Document Title](https://github.com/gaearon/react-document-title)** by [Dav Abramov](https://github.com/gaearon)<br>
   Declarative, nested, stateful, isomorphic document.title for React.
