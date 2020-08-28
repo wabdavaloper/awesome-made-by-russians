@@ -313,6 +313,9 @@
 - **[Bt](https://github.com/atomashpolskiy/bt)** by [Andrei Tomashpolskiy](https://github.com/atomashpolskiy)<br>
   BitTorrent library and client with DHT, magnet links, encryption and more.
 
+- **[CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager)** by [Azoft](https://github.com/Azoft)<br>
+  Android Carousel LayoutManager for RecyclerView.
+
 - **[Catalyst](https://github.com/catalyst-team/catalyst)** by [Catalyst Team](https://github.com/catalyst-team)<br>
   PyTorch framework for Deep Learning research and development.
 
