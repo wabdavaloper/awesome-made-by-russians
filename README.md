@@ -283,6 +283,9 @@
 - **[Allure Framework](https://github.com/allure-framework/allure2)** by [Allure Framework team](https://github.com/allure-framework)<br>
   A flexible lightweight multi-language test reporting tool.
 
+- **[Android AppMsg (Crouton) Library](https://github.com/johnkil/Android-AppMsg)** by [Evgeny Shishkin](https://github.com/johnkil)<br>
+  In-layout notifications. Based on Toast notifications and [article](https://cyrilmottier.com/2012/07/24/the-making-of-prixing-4-activity-tied-notifications/) by Cyril Mottier.
+
 - **[Android Flow Layout](https://github.com/ApmeM/android-flowlayout)** by [Artem Votincev](https://github.com/ApmeM)<br>
   Linear layout, that wrap its content to the next line if there is no space in the current line.
 
