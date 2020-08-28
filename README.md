@@ -212,6 +212,9 @@
 - **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
   Tool for running linters on Git staged files.
   
+- **[Redux Logger](https://github.com/LogRocket/redux-logger)** by [Evgeny Rodionov](https://github.com/evgenyrodionov)<br>
+  Logger for Redux.
+  
 - **[Macaw](https://github.com/exyte/Macaw)** by [Exyte](https://github.com/exyte)<br>
   Powerful and easy-to-use vector graphics Swift library with SVG support
   
