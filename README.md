@@ -346,6 +346,9 @@
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias)<br>
   An effective multi-store state manager for JavaScript apps.
   
+- **[Elliptic](https://github.com/indutny/elliptic)** by [Fedor Indutny](https://github.com/indutny)<br>
+  Fast Elliptic Curve Cryptography in plain JavaScript.
+  
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Implementation of EfficientNet model. Keras and TensorFlow Keras.
   
