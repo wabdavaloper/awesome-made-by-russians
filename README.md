@@ -411,6 +411,9 @@
 
 - **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
   A lightweight dynamic open-source server for diverse web applications.
+  
+- **[Node IP](https://github.com/indutny/node-ip)** by [Fedor Indutny](https://github.com/indutny)<br>
+  IP address tools for Node.js.
 
 - **[Odyssey](https://github.com/yandex/odyssey)** by [Yandex](https://github.com/yandex)<br>
   Scalable PostgreSQL connection pooler.
