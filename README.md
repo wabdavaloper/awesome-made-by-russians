@@ -155,6 +155,9 @@
 - **[Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)** by [Andrey Romanov](https://github.com/andrew--r)<br>
   A curated list of technical talks and articles about real-world enterprise frontend development.
 
+- **[GetBEM.com](https://github.com/getbem/getbem.com)** by [Vsevolod Strukchinsky](https://github.com/floatdrop) & [Vladimir Starkov](https://github.com/iamstarkov)<br>
+  Get BEM to all people in simplest way.
+
 - **[Github Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator)** by [Petr Korolev](https://github.com/skywinder)<br>
   Automatically generate change log from your tags, issues, labels and pull requests on Github.
 
