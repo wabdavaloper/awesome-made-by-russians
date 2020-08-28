@@ -373,6 +373,9 @@
 - **[Grafana Zabbix](https://github.com/alexanderzobnin/grafana-zabbix)** by [Alexander Zobnin](https://github.com/alexanderzobnin)<br>
   Zabbix plugin for Grafana dashboard.
   
+- **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
+  HTML5 History API expansion for browsers not supporting pushState, replaceState.
+  
 - **[Jquerymy](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
   
