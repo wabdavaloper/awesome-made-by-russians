@@ -280,6 +280,9 @@
 - **[Allure Framework](https://github.com/allure-framework/allure2)** by [Allure Framework team](https://github.com/allure-framework)<br>
   A flexible lightweight multi-language test reporting tool.
 
+- **[Android Flow Layout](https://github.com/ApmeM/android-flowlayout)** by [Artem Votincev](https://github.com/ApmeM)<br>
+  Linear layout, that wrap its content to the next line if there is no space in the current line.
+
 - **[Android In-App Billing v3 Library](https://github.com/anjlab/android-inapp-billing-v3)** by [AnjLab](https://github.com/anjlab)<br>
   A lightweight implementation of Android In-app Billing Version 3.
 
