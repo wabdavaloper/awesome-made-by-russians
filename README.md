@@ -352,6 +352,9 @@
 - **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
   Your Rails variables in your JS.
   
+- **[Grafana Zabbix](https://github.com/alexanderzobnin/grafana-zabbix)** by [Alexander Zobnin](https://github.com/alexanderzobnin)<br>
+  Zabbix plugin for Grafana dashboard.
+  
 - **[Jquerymy](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
   
