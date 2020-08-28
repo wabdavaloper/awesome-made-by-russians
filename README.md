@@ -385,6 +385,9 @@
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
   
+- **[Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider)** by [Denis Ineshin](https://github.com/IonDen)<br>
+  jQuery only range slider.
+  
 - **[Jquerymy](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
   
