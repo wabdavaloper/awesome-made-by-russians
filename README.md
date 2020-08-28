@@ -478,6 +478,9 @@
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
 
+- **[TextSurface](https://github.com/elevenetc/TextSurface)** by [Eugene Levenetc](https://github.com/elevenetc)<br>
+  A little animation framework which could help you to show message in a nice looking way.
+
 - **[Tiny KABOOM!](https://github.com/ssloy/tinykaboom)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about KABOOM!
 
