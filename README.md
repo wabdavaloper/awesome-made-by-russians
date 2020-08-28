@@ -394,6 +394,9 @@
 - **[Jquerymy](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
   
+- **[Konmik.com](https://github.com/konmik/konmik.github.io)** by [Konstantin Mikheev](https://github.com/konmik)<br>
+  Blog: Programming theory, Java, Android.
+
 - **[Laravel Orchid](https://github.com/orchidsoftware/platform)** by [Alexandr Chernyaev](https://github.com/tabuna)<br>
   Platform for back-office applications, admin panel or CMS your Laravel app.
 
