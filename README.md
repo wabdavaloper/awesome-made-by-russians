@@ -268,6 +268,9 @@
   
 - **[Tiny Renderer](https://github.com/ssloy/tinyrenderer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about OpenGL.
+  
+- **[Vuera](https://github.com/akxcv/vuera)** by [Alexander Komarov](https://github.com/akxcv)<br>
+  Vue in React, React in Vue. Seamless integration of the two.
 
 ## > 1k ★
 
