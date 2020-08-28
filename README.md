@@ -381,7 +381,10 @@
 
 - **[Lefthook](https://github.com/Arkweid/lefthook)** by [Abroskin Alexander](https://github.com/Arkweid)<br>
   Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
-  
+
+- **[LibPhoneNumber JS](https://github.com/catamphetamine/libphonenumber-js)** by [Nikolay Nikolaev](https://github.com/catamphetamine)<br>
+  A simpler (and smaller) rewrite of Google Android's LibPhoneNumber library in JavaScript.
+
 - **[LuaCheck](https://github.com/mpeterv/luacheck)** by [Peter Melnichenko](https://github.com/mpeterv)<br>
   A tool for linting and static analysis of Lua code.
   
