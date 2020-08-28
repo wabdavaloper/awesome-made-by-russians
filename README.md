@@ -285,6 +285,9 @@
 
 - **[ARTetris](https://github.com/exyte/ARTetris)** by [Exyte](https://github.com/exyte)<br>
   Augmented Reality Tetris made with ARKit and SceneKit.
+  
+- **[Autobind Decorator](https://github.com/andreypopp/autobind-decorator)** by [Andrey Popp](https://github.com/andreypopp)<br>
+  Decorator to automatically bind methods to class instances.
 
 - **[Awesome Clojure](https://github.com/razum2um/awesome-clojure)** by [Vlad Bokov](https://github.com/razum2um)<br>
   A curated list of awesome Clojure libraries and resources.
