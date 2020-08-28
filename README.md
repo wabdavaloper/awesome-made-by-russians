@@ -423,6 +423,9 @@
   
 - **[Node IP](https://github.com/indutny/node-ip)** by [Fedor Indutny](https://github.com/indutny)<br>
   IP address tools for Node.js.
+  
+- **[Nucleus](https://github.com/konmik/nucleus)** by [Konstantin Mikheev](https://github.com/konmik)<br>
+  An Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
 
 - **[Odyssey](https://github.com/yandex/odyssey)** by [Yandex](https://github.com/yandex)<br>
   Scalable PostgreSQL connection pooler.
