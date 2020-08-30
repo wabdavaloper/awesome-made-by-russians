@@ -471,6 +471,9 @@
 
 - **[React Makes You Sad](https://github.com/gaearon/react-makes-you-sad)** by [Dav Abramov](https://github.com/gaearon)<br>
   Here’s a flowchart to make you happy again!
+  
+- **[React Native Looped Carousel](https://github.com/phil-r/react-native-looped-carousel)** by [Phil Rukin](https://github.com/phil-r)<br>
+  Full-fledged “infinite” carousel for your next React Native project. Supports iOS and Android.
 
 - **[React Side Effect](https://github.com/gaearon/react-side-effect)** by [Dav Abramov](https://github.com/gaearon)<br>
   Create components whose nested prop changes map to a global side effect.
