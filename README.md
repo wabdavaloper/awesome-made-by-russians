@@ -208,7 +208,10 @@
 
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
-  
+
+- **[jQuery DateTimePicker](https://github.com/xdan/datetimepicker)** by [Valeriy Chupurnov](https://github.com/xdan)<br>
+  jQuery Plugin Date and Time Picker.
+
 - **[JS YAML](https://github.com/nodeca/js-yaml)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   JavaScript YAML parser and dumper. Very fast.
   
