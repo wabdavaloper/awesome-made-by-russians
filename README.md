@@ -493,6 +493,9 @@
 - **[StreamEx](https://github.com/amaembo/streamex)** by [Tagir Valeev](https://github.com/amaembo)<br>
   Enhancing Java Stream API.
   
+- **[SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)** by [Anton Malinskiy](https://github.com/Malinskiy)<br>
+  Pumped up RecyclerView.
+  
 - **[SVG Sprite Loader](https://github.com/JetBrains/svg-sprite-loader)** by [Stas Kurilov](https://github.com/kisenka)<br>
   Webpack loader for creating SVG sprites.
   
