@@ -197,6 +197,9 @@
 - **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Fast and secure standalone server for resizing and converting remote images.
 
+- **[Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet)** by [Artem Sapegin](https://github.com/sapegin)<br>
+  Huge list of Jest methods with examples.
+
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
   
@@ -403,6 +406,9 @@
 - **[Grafana Zabbix](https://github.com/alexanderzobnin/grafana-zabbix)** by [Alexander Zobnin](https://github.com/alexanderzobnin)<br>
   Zabbix plugin for Grafana dashboard.
   
+- **[Grunt Webfont](https://github.com/sapegin/grunt-webfont)** by [Artem Sapegin](https://github.com/sapegin)<br>
+  SVG to webfont converter for Grunt.
+  
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
   
@@ -504,6 +510,9 @@
 
 - **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
   A Photoshop script that makes measurement marks.
+
+- **[Social Likes](https://github.com/sapegin/social-likes)** by [Artem Sapegin](https://github.com/sapegin)<br>
+  Beautiful social “like” buttons with counters for jQuery.
 
 - **[Sphinx](https://github.com/sphinxsearch/sphinx)** by [Andrew Aksyonoff](https://github.com/shodanium)<br>
   A full text search server.
