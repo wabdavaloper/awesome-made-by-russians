@@ -397,7 +397,10 @@
 - **[Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider)** by [Denis Ineshin](https://github.com/IonDen)<br>
   jQuery only range slider.
   
-- **[Jquerymy](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
+- **[jQuery.appear](https://github.com/morr/jquery.appear)** by [Andrey Sidorov](https://github.com/morr)<br>
+  jQuery plugin for tracking element's appearance in browser viewport.
+  
+- **[jQuery.my](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
   
 - **[Konmik.com](https://github.com/konmik/konmik.github.io)** by [Konstantin Mikheev](https://github.com/konmik)<br>
