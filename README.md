@@ -266,6 +266,9 @@
 - **[Pako](https://github.com/nodeca/pako)** by [Vitaly Puzrin](https://github.com/puzrin) & [Andrei Tupitcyn](https://github.com/andr83)<br>
   High speed zlib port to JavaScript, works in browser & Node.js.
 
+- **[Piggy Metrics](https://github.com/sqshq/piggymetrics)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
+  Microservice Architecture with Spring Boot, Spring Cloud and Docker.
+
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   A Zsh theme.
 
