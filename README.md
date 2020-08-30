@@ -325,6 +325,9 @@
 - **[Android In-App Billing v3 Library](https://github.com/anjlab/android-inapp-billing-v3)** by [AnjLab](https://github.com/anjlab)<br>
   A lightweight implementation of Android In-app Billing Version 3.
 
+- **[Angular Xeditable](https://github.com/vitalets/angular-xeditable)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
+  Edit in place for AngularJS.
+
 - **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server.
 
