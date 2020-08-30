@@ -544,6 +544,9 @@
 - **[TextSurface](https://github.com/elevenetc/TextSurface)** by [Eugene Levenetc](https://github.com/elevenetc)<br>
   A little animation framework which could help you to show message in a nice looking way.
 
+- **[TingoDB](https://github.com/sergeyksv/tingodb)** by [Sergey Korotkov](https://github.com/sergeyksv)<br>
+  Embedded Node.js database upward compatible with MongoDB.
+
 - **[Tiny KABOOM!](https://github.com/ssloy/tinykaboom)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about KABOOM!
 
