@@ -233,6 +233,9 @@
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
+- **[Netty Socket.IO](https://github.com/mrniko/netty-socketio)** by [Nikita Koksharov](https://github.com/mrniko)<br>
+  Socket.IO server implemented on Java. Realtime Java framework.
+
 - **[NLP course](https://github.com/yandexdataschool/nlp_course)** by [YSDA](https://github.com/yandexdataschool)<br>
   Yandex School of Data Analysis course in Natural Language Processing.
 
