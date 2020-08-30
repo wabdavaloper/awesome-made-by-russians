@@ -427,6 +427,9 @@
 - **[GitHub Trending Repos](https://github.com/vitalets/github-trending-repos)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 
+- **[Google Spreadsheets Python API v4](https://github.com/burnash/gspread)** by [Anton Burnashev](https://github.com/burnash)<br>
+  Simple interface for working with Google Sheets.
+
 - **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
   Your Rails variables in your JS.
   
