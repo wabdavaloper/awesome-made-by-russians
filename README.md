@@ -245,6 +245,9 @@
 - **[Nuke](https://github.com/kean/Nuke)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Powerful image loading and caching system.
 
+- **[Offline Plugin](https://github.com/NekR/offline-plugin)** by [Arthur Stolyar](https://github.com/NekR)<br>
+  Offline plugin (ServiceWorker, AppCache) for Webpack.
+
 - **[Overreacted.io](https://github.com/gaearon/overreacted.io)** by [Dav Abramov](https://github.com/gaearon)<br>
   Personal blog by Dan Abramov.
 
