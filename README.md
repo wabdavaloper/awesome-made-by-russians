@@ -552,6 +552,9 @@
 
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
+  
+- **[Xabber](https://github.com/redsolution/xabber-android)** by [Redsolution](https://github.com/redsolution)<br>
+  XMPP client for Android.
 
 - **[Yandex Tank](https://github.com/yandex/yandex-tank)** by [Yandex](https://github.com/yandex)<br>
   Load and performance benchmark tool.
