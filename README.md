@@ -418,6 +418,9 @@
 - **[Git Secret](https://github.com/sobolevn/git-secret)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   A bash-tool to store your private data inside a Git repository.
 
+- **[GitHub Trending Repos](https://github.com/vitalets/github-trending-repos)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
+  Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+
 - **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
   Your Rails variables in your JS.
   
