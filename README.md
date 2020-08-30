@@ -98,6 +98,9 @@
 - **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://github.com/albumentations-team)<br>
   Fast image augmentation library and easy to use wrapper around other libraries.
 
+- **[Angular File Upload](https://github.com/nervgh/angular-file-upload)** by [Alex Zaytsev](https://github.com/nervgh)<br>
+  A module for the AngularJS framework. Supports drag-n-drop upload, upload progress, validation filters and a file upload queue.
+
 - **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   A small indicator for macOS menubar.
   
