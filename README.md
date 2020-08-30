@@ -310,6 +310,9 @@
   
 - **[Vuera](https://github.com/akxcv/vuera)** by [Alexander Komarov](https://github.com/akxcv)<br>
   Vue in React, React in Vue. Seamless integration of the two.
+  
+- **[X-editable](https://github.com/vitalets/x-editable)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
+  In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
 ## > 1k ★
 
@@ -325,7 +328,7 @@
 - **[Android In-App Billing v3 Library](https://github.com/anjlab/android-inapp-billing-v3)** by [AnjLab](https://github.com/anjlab)<br>
   A lightweight implementation of Android In-app Billing Version 3.
 
-- **[Angular Xeditable](https://github.com/vitalets/angular-xeditable)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
+- **[Angular X-editable](https://github.com/vitalets/angular-xeditable)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   Edit in place for AngularJS.
 
 - **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
