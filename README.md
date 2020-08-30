@@ -72,6 +72,9 @@
 - **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** by [Dan Abramov](https://github.com/gaearon)<br>
   Tweak React components in real time.
   
+- **[React Native macOS](https://github.com/ptmt/react-native-macos)** by [Dima Loktev](https://github.com/ptmt)<br>
+  React Native for macOS is an experimental fork for writing desktop apps using Cocoa.
+  
 - **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Redis Java client with features of In-Memory Data Grid.
   
