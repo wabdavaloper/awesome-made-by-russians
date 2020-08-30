@@ -218,6 +218,9 @@
 - **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
   Tool for running linters on Git staged files.
   
+- **[Linux Deploy](https://github.com/meefik/linuxdeploy)** by [Anton Skshidlevsky](https://github.com/meefik)<br>
+  Install and run GNU/Linux on Android.
+  
 - **[Redux Logger](https://github.com/LogRocket/redux-logger)** by [Evgeny Rodionov](https://github.com/evgenyrodionov)<br>
   Logger for Redux.
   
