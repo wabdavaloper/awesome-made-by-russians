@@ -510,7 +510,10 @@
 
 - **[React Makes You Sad](https://github.com/gaearon/react-makes-you-sad)** by [Dav Abramov](https://github.com/gaearon)<br>
   Here’s a flowchart to make you happy again!
-  
+
+- **[React Native Extended StyleSheet](https://github.com/vitalets/react-native-extended-stylesheet)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
+  Drop-in replacement of React Native StyleSheet with media-queries, variables, dynamic themes, relative units, percents, math operations, scaling and other styling stuff.
+
 - **[React Native Looped Carousel](https://github.com/phil-r/react-native-looped-carousel)** by [Phil Rukin](https://github.com/phil-r)<br>
   Full-fledged “infinite” carousel for your next React Native project. Supports iOS and Android.
 
