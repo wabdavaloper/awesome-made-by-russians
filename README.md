@@ -454,6 +454,9 @@
 - **[LuaFun](https://github.com/luafun/luafun)** by [Roman Tsisyk](https://github.com/rtsisyk)<br>
   A high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 
+- **[Meteor Files](https://github.com/VeliovGroup/Meteor-Files)** by [VeliovGroup](https://github.com/VeliovGroup)<br>
+  Upload files via DDP or HTTP to Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
+
 - **[MPS](https://github.com/JetBrains/MPS)** by [JetBrains](https://github.com/JetBrains)<br>
   JetBrains Meta Programming System.
 
