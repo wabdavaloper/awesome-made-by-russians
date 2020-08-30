@@ -361,6 +361,9 @@
 - **[Catalyst](https://github.com/catalyst-team/catalyst)** by [Catalyst Team](https://github.com/catalyst-team)<br>
   PyTorch framework for Deep Learning research and development.
 
+- **[Checklist model](https://github.com/vitalets/checklist-model)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
+  AngularJS directive for list of checkboxes.
+
 - **[CRIU (Checkpoint and Restore In Userspace)](https://github.com/checkpoint-restore/criu)** by Virtuozzo<br>
   Checkpoint/Restore Tool.
 
