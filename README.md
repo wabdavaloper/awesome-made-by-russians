@@ -149,6 +149,9 @@
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
   
+- **[Emmet Sublime](https://github.com/sergeche/emmet-sublime)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
+  Emmet for Sublime Text.
+  
 - **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)<br>
   Simple and clean SVG icon pack.
 
