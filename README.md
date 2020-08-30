@@ -284,6 +284,9 @@
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
+- **[Sampler](https://github.com/sqshq/sampler)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
+  Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file..
+
 - **[Shower](https://github.com/shower/shower)** by [Vadim Makeev](https://github.com/pepelsbey)<br>
   HTML presentation engine.
 
