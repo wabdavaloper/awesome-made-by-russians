@@ -439,6 +439,9 @@
 - **[Laravel Orchid](https://github.com/orchidsoftware/platform)** by [Alexandr Chernyaev](https://github.com/tabuna)<br>
   Platform for back-office applications, admin panel or CMS your Laravel app.
 
+- **[LazyList](https://github.com/thest1/LazyList)** by [Fedor Vlasov](https://github.com/thest1)<br>
+  Lazy load of images in Android.
+
 - **[Lefthook](https://github.com/Arkweid/lefthook)** by [Abroskin Alexander](https://github.com/Arkweid)<br>
   Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
 
