@@ -145,6 +145,9 @@
 
 - **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
   Easing Functions Cheat Sheet.
+  
+- **[ElFinder](https://github.com/Studio-42/elFinder)** by [Studio 42](https://github.com/Studio-42)<br>
+  Open-source file manager for web, written in JavaScript using jQuery and jQuery UI.
 
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
