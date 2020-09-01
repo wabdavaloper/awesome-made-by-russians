@@ -588,7 +588,10 @@
   
 - **[StreamEx](https://github.com/amaembo/streamex)** by [Tagir Valeev](https://github.com/amaembo)<br>
   Enhancing Java Stream API.
-  
+
+- **[SublimeWebInspector](https://github.com/sokolovstas/SublimeWebInspector)** by [Stanislav Sokolov](https://github.com/sokolovstas)<br>
+  Web Inspector allow you debug JavaScript right in the editor.
+
 - **[SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)** by [Anton Malinskiy](https://github.com/Malinskiy)<br>
   Pumped up RecyclerView.
   
