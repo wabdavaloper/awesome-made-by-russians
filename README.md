@@ -106,7 +106,10 @@
 
 - **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   A small indicator for macOS menubar.
-  
+
+- **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** by [Gregory Petukhov](https://github.com/lorien)<br>
+  List of libraries, tools and APIs for web scraping and data processing..
+
 - **[Awesomo](https://github.com/lk-geimfari/awesomo)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   An extensive list of cool open source projects written in popular programming languages.
 
