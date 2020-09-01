@@ -435,6 +435,9 @@
   
 - **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)<br>
   A repo with Russian translation of common terms and famous developers names.
+  
+- **[Funcy](https://github.com/Suor/funcy)** by [Alexander Schepanovski](https://github.com/Suor)<br>
+  A fancy and practical functional tools.
 
 - **[Gemini](https://github.com/gemini-testing/gemini)** by by [Yandex](https://github.com/yandex)<br>
   A utility for regression testing the visual appearance of web pages.
