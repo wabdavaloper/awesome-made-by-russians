@@ -108,7 +108,7 @@
   A small indicator for macOS menubar.
 
 - **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** by [Gregory Petukhov](https://github.com/lorien)<br>
-  List of libraries, tools and APIs for web scraping and data processing..
+  List of libraries, tools and APIs for web scraping and data processing.
 
 - **[Awesomo](https://github.com/lk-geimfari/awesomo)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   An extensive list of cool open source projects written in popular programming languages.
@@ -441,7 +441,10 @@
 
 - **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
   Your Rails variables in your JS.
-  
+
+- **[Grab](https://github.com/lorien/grab)** by [Gregory Petukhov](https://github.com/lorien)<br>
+  Web Scraping Framework.
+
 - **[Grafana Zabbix](https://github.com/alexanderzobnin/grafana-zabbix)** by [Alexander Zobnin](https://github.com/alexanderzobnin)<br>
   Zabbix plugin for Grafana dashboard.
   
