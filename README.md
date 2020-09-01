@@ -248,6 +248,9 @@
 - **[Machine Learning Algorithms](https://github.com/rushter/MLAlgorithms)** by [Artem Golubin](https://github.com/rushter)<br>
   Minimal and clean examples of machine learning algorithms implementations.
   
+- **[MLCourse.ai](https://github.com/Yorko/mlcourse.ai)** by [Yury Kashnitsky](https://github.com/Yorko)<br>
+  Open Machine Learning Course.
+  
 - **[Redux Logger](https://github.com/LogRocket/redux-logger)** by [Evgeny Rodionov](https://github.com/evgenyrodionov)<br>
   Logger for Redux.
   
