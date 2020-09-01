@@ -439,8 +439,11 @@
 - **[Funcy](https://github.com/Suor/funcy)** by [Alexander Schepanovski](https://github.com/Suor)<br>
   A fancy and practical functional tools.
 
-- **[Gemini](https://github.com/gemini-testing/gemini)** by by [Yandex](https://github.com/yandex)<br>
+- **[Gemini](https://github.com/gemini-testing/gemini)** by [Yandex](https://github.com/yandex)<br>
   A utility for regression testing the visual appearance of web pages.
+  
+- **[Getsploit](https://github.com/vulnersCom/getsploit)** by [Vulners Team](https://github.com/vulnersCom)<br>
+  Command line utility for searching and downloading exploits.
 
 - **[Git Secret](https://github.com/sobolevn/git-secret)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   A bash-tool to store your private data inside a Git repository.
