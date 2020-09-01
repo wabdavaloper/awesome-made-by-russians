@@ -514,6 +514,9 @@
 - **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
   A lightweight dynamic open-source server for diverse web applications.
   
+- **[Nmap Vulners](https://github.com/vulnersCom/nmap-vulners)** by [Vulners Team](https://github.com/vulnersCom)<br>
+  NSE script based on Vulners.com API.
+  
 - **[Node IP](https://github.com/indutny/node-ip)** by [Fedor Indutny](https://github.com/indutny)<br>
   IP address tools for Node.js.
   
