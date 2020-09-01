@@ -245,6 +245,9 @@
 - **[Linux Deploy](https://github.com/meefik/linuxdeploy)** by [Anton Skshidlevsky](https://github.com/meefik)<br>
   Install and run GNU/Linux on Android.
   
+- **[Machine Learning Algorithms](https://github.com/rushter/MLAlgorithms)** by [Artem Golubin](https://github.com/rushter)<br>
+  Minimal and clean examples of machine learning algorithms implementations.
+  
 - **[Redux Logger](https://github.com/LogRocket/redux-logger)** by [Evgeny Rodionov](https://github.com/evgenyrodionov)<br>
   Logger for Redux.
   
