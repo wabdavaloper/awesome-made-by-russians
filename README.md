@@ -355,6 +355,9 @@
 - **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
   Simple CSS library for semantic HTML markup.
 
+- **[Benchmarks](https://github.com/kostya/benchmarks)** by [Konstantin Makarchev](https://github.com/kostya)<br>
+  Some benchmarks of different languages.
+
 - **[Big-O Poster](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
   
