@@ -409,6 +409,9 @@
 - **[Example microservice app](https://github.com/elgris/microservice-app-example)** by [Ivan Kirichenko](https://github.com/elgris)<br>
   An example of web application comprising of several components communicating to each other.
   
+- **[Eye](https://github.com/kostya/eye)** by [Konstantin Makarchev](https://github.com/kostya)<br>
+  Process monitoring tool. Inspired from Bluepill and God..
+  
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
   
