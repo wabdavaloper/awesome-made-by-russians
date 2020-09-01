@@ -373,6 +373,9 @@
 - **[Bt](https://github.com/atomashpolskiy/bt)** by [Andrei Tomashpolskiy](https://github.com/atomashpolskiy)<br>
   BitTorrent library and client with DHT, magnet links, encryption and more.
 
+- **[Cacheops](https://github.com/Suor/django-cacheops)** by [Alexander Schepanovski](https://github.com/Suor)<br>
+  A slick ORM cache with automatic granular event-driven invalidation.
+
 - **[CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager)** by [Azoft](https://github.com/Azoft)<br>
   Android Carousel LayoutManager for RecyclerView.
 
