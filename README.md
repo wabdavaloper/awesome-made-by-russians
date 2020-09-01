@@ -139,7 +139,10 @@
   
 - **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
   Powerful and efficient Computer Vision Annotation Tool.
-  
+
+- **[Data Science Blogs](https://github.com/rushter/data-science-blogs)** by [Artem Golubin](https://github.com/rushter)<br>
+  A curated list of data science blogs.
+
 - **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
   
