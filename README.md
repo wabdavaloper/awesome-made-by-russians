@@ -95,6 +95,9 @@
 
 - **[WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)** by [Maxim Gumin](https://github.com/mxgmn)<br>
   Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+  
+- **[Yolo](https://github.com/AlexeyAB/darknet)** by [Alexey Bochkovskiy](https://github.com/AlexeyAB)<br>
+  Neural Networks for Object Detection (Windows and Linux version of Darknet).
 
 ## > 3k ★
 
