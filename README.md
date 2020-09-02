@@ -552,7 +552,10 @@
 
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
-  
+
+- **[PHPDaemon](https://github.com/kakserpom/phpdaemon)** by [Vasily Zorin](https://github.com/kakserpom)<br>
+  Asynchronous server-side framework for network applications implemented in PHP using libevent.
+
 - **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   Resize image in browser with high quality and high speed.
   
