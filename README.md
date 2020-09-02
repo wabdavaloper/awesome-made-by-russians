@@ -194,6 +194,9 @@
 - **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)<br>
   Nginx configuration static analyzer.
 
+- **[Go Fuzz](https://github.com/dvyukov/go-fuzz)** by [Dmitry Vyukov](https://github.com/dvyukov)<br>
+  Randomized testing for Go.
+
 - **[Golang CI Lint](https://github.com/golangci/golangci-lint)** by [Denis Isaev](https://github.com/jirfag)<br>
   Fast linters runner for Go.
 
