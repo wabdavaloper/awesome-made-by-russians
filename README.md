@@ -660,6 +660,9 @@
 
 - **[Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)** by [Alexander Makarov](https://github.com/samdark)<br>
   An open source book full of tips and tricks about Yii 2.0 PHP framework.
+  
+- **[Yolo Mark](https://github.com/AlexeyAB/Yolo_mark)** by [Alexey Bochkovskiy](https://github.com/AlexeyAB)<br>
+  GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
 - The place for your next great pet project!
   
