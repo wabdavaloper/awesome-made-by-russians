@@ -576,6 +576,9 @@
 
 - **[React Side Effect](https://github.com/gaearon/react-side-effect)** by [Dav Abramov](https://github.com/gaearon)<br>
   Create components whose nested prop changes map to a global side effect.
+  
+- **[Redsocks](https://github.com/darkk/redsocks)** by [Leonid Evdokimov](https://github.com/darkk)<br>
+  Transparent TCP-to-proxy redirector.
 
 - **[Returns](https://github.com/dry-python/returns)** by [Dry Python](https://github.com/dry-python)<br>
   Make your Python functions return something meaningful, typed, and safe!
