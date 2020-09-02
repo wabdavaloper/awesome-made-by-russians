@@ -211,7 +211,10 @@
   
 - **[HTML-GL](https://github.com/pixelscommander/html-gl)** by [Denis Radin](https://github.com/pixelscommander)<br>
   Render HTML/CSS in WebGL for a better performance and unlimited visual effects.
-  
+
+- **[Imaging](https://github.com/disintegration/imaging)** by [Grigory Dryapak](https://github.com/disintegration)<br>
+  A simple image processing package for Go.
+
 - **[iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)** by [Artem Novichkov](https://github.com/artemnovichkov)<br>
   Examples of new iOS 11 APIs.
   
