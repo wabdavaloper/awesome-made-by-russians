@@ -507,6 +507,9 @@
   
 - **[KxMenu](https://github.com/kolyvan/kxmenu)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A vertical popup menu for using in iOS applications.
+  
+- **[KxMovie](https://github.com/kolyvan/kxmovie)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
+  A movie player for iOS using ffmpeg.
 
 - **[Laravel Orchid](https://github.com/orchidsoftware/platform)** by [Alexandr Chernyaev](https://github.com/tabuna)<br>
   Platform for back-office applications, admin panel or CMS your Laravel app.
