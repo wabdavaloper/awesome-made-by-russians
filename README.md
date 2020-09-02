@@ -661,6 +661,9 @@
 - **[Segmentation Models (PyTorch)](https://github.com/qubvel/segmentation_models.pytorch)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Segmentation models with pretrained backbones. PyTorch.
 
+- **[Sitemap](https://github.com/ekalinin/sitemap.js)** by [Eugene Kalinin](https://github.com/ekalinin)<br>
+  Sitemap-generating framework for Node.js.
+
 - **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
   A Photoshop script that makes measurement marks.
 
