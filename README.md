@@ -474,7 +474,10 @@
   
 - **[Grunt Webfont](https://github.com/sapegin/grunt-webfont)** by [Artem Sapegin](https://github.com/sapegin)<br>
   SVG to webfont converter for Grunt.
-  
+
+- **[Hakchi2](https://github.com/ClusterM/hakchi2)** by [Alexey Avdyukhin](https://github.com/ClusterM)<br>
+  Tool that allows you to add more games to your NES/SNES Classic Mini.
+
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
   
