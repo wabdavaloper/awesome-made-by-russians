@@ -561,6 +561,9 @@
 
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
   A tool to transform HTML/XML with JS plugins.
+  
+- **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
+  Quick Look plugin for apps and provisioning profile files.
 
 - **[QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)** by [Artem Zinnatullin](https://github.com/artem-zinnatullin)<br>
   Android Development Culture.
