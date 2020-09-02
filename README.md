@@ -669,6 +669,9 @@
 
 - **[WhatTheFuck.Is](https://github.com/gaearon/whatthefuck.is)** by [Dav Abramov](https://github.com/gaearon)<br>
   An opinionated glossary of computer science terms for front-end developers.
+  
+- **[WebGradients](https://github.com/itmeo/webgradients)** by [Itmeo](https://github.com/itmeo)<br>
+  A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
 
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
