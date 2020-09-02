@@ -730,11 +730,14 @@
 - **[Werf](https://github.com/werf/werf)** by [Flant](https://github.com/flant)<br>
   GitOps CI/CD tool, for containers and Kubernetes.
 
+- **[WebGradients](https://github.com/itmeo/webgradients)** by [Itmeo](https://github.com/itmeo)<br>
+  A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
+
 - **[WhatTheFuck.Is](https://github.com/gaearon/whatthefuck.is)** by [Dav Abramov](https://github.com/gaearon)<br>
   An opinionated glossary of computer science terms for front-end developers.
   
-- **[WebGradients](https://github.com/itmeo/webgradients)** by [Itmeo](https://github.com/itmeo)<br>
-  A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
+- **[When](https://github.com/olebedev/when)** by [Oleg Lebedev](https://github.com/olebedev)<br>
+  A natural language date/time parser with pluggable rules.
 
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
