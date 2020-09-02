@@ -478,6 +478,9 @@
 - **[Getsploit](https://github.com/vulnersCom/getsploit)** by [Vulners Team](https://github.com/vulnersCom)<br>
   Command line utility for searching and downloading exploits.
 
+- **[GH-MD-TOC](https://github.com/ekalinin/github-markdown-toc)** by [Eugene Kalinin](https://github.com/ekalinin)<br>
+  Easy TOC creation for GitHub README.md.
+
 - **[Gift](https://github.com/disintegration/gift)** by [Grigory Dryapak](https://github.com/disintegration)<br>
   Go Image Filtering Toolkit.
 
