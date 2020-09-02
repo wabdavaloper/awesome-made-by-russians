@@ -495,6 +495,9 @@
 
 - **[Go! AOP PHP](https://github.com/goaop/framework)** by [Alexander Lisachenko](https://github.com/lisachenko)<br>
   Modern aspect-oriented framework for the new level of software development.
+  
+- **[Go Starter Kit](https://github.com/olebedev/go-starter-kit)** by [Oleg Lebedev](https://github.com/olebedev)<br>
+  Golang isomorphic React/hot reloadable/Redux/CSS-modules/SSR starter kit.
 
 - **[Google Spreadsheets Python API v4](https://github.com/burnash/gspread)** by [Anton Burnashev](https://github.com/burnash)<br>
   Simple interface for working with Google Sheets.
