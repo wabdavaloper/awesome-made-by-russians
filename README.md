@@ -580,6 +580,9 @@
 - **[Node SPDY](https://github.com/spdy-http2/node-spdy)** by [Fedor Indutny](https://github.com/indutny)<br>
   SPDY server on Node.js.
   
+- **[NodeEnv](https://github.com/ekalinin/nodeenv)** by [Eugene Kalinin](https://github.com/ekalinin)<br>
+  Virtual environment for Node.js & integrator with virtualenv.
+  
 - **[Nucleus](https://github.com/konmik/nucleus)** by [Konstantin Mikheev](https://github.com/konmik)<br>
   An Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
 
