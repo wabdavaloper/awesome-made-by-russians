@@ -472,6 +472,9 @@
 - **[Getsploit](https://github.com/vulnersCom/getsploit)** by [Vulners Team](https://github.com/vulnersCom)<br>
   Command line utility for searching and downloading exploits.
 
+- **[Gift](https://github.com/disintegration/gift)** by [Grigory Dryapak](https://github.com/disintegration)<br>
+  Go Image Filtering Toolkit.
+
 - **[Git Secret](https://github.com/sobolevn/git-secret)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   A bash-tool to store your private data inside a Git repository.
 
