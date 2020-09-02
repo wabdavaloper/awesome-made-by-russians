@@ -155,6 +155,9 @@
 - **[DeepPavlov](https://github.com/deepmipt/DeepPavlov)** by [Neural Networks and Deep Learning lab, MIPT](https://github.com/deepmipt)<br>
   An open-source conversational AI library built on TensorFlow and Keras.
 
+- **[EAIntroView](https://github.com/ealeksandrov/EAIntroView)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
+  Highly customizable drop-in solution for introduction views.
+
 - **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
   Easing Functions Cheat Sheet.
   
@@ -309,7 +312,7 @@
   Isolated React component development environment with a living style guide.
 
 - **[Sampler](https://github.com/sqshq/sampler)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
-  Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file..
+  Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
 - **[Shower](https://github.com/shower/shower)** by [Vadim Makeev](https://github.com/pepelsbey)<br>
   HTML presentation engine.
@@ -407,7 +410,7 @@
   Data science interview questions and answers.
   
 - **[DFImageManager](https://github.com/kean/DFImageManager)** by [Alex Grebenyuk](https://github.com/kean)<br>
-  Advanced Objective-C framework for loading, caching, processing, displaying and preheating images..
+  Advanced Objective-C framework for loading, caching, processing, displaying and preheating images.
   
 - **[DiDOM](https://github.com/Imangazaliev/DiDOM)** by [Muhammad Imangazaliev](https://github.com/Imangazaliev)<br>
   Simple and fast HTML parser.
@@ -431,7 +434,7 @@
   An example of web application comprising of several components communicating to each other.
   
 - **[Eye](https://github.com/kostya/eye)** by [Konstantin Makarchev](https://github.com/kostya)<br>
-  Process monitoring tool. Inspired from Bluepill and God..
+  Process monitoring tool. Inspired from Bluepill and God.
   
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
