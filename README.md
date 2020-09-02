@@ -541,6 +541,9 @@
 - **[LuaFun](https://github.com/luafun/luafun)** by [Roman Tsisyk](https://github.com/rtsisyk)<br>
   A high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 
+- **[Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font)** by [Sergey Kupletsky](https://github.com/zavoloklom)<br>
+  A full suite of official material design icons, with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop.
+
 - **[Meteor Files](https://github.com/VeliovGroup/Meteor-Files)** by [VeliovGroup](https://github.com/VeliovGroup)<br>
   Upload files via DDP or HTTP to Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
 
