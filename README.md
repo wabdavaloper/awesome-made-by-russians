@@ -511,6 +511,9 @@
 - **[KxMovie](https://github.com/kolyvan/kxmovie)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A movie player for iOS using ffmpeg.
 
+- **[Laravel Nested Set](https://github.com/lazychaser/laravel-nestedset)** by [Alexander Kalnoy](https://github.com/lazychaser)<br>
+  Effective tree structures in Laravel 4-5.
+
 - **[Laravel Orchid](https://github.com/orchidsoftware/platform)** by [Alexandr Chernyaev](https://github.com/tabuna)<br>
   Platform for back-office applications, admin panel or CMS your Laravel app.
 
