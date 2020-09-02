@@ -567,6 +567,9 @@
 
 - **[Odyssey](https://github.com/yandex/odyssey)** by [Yandex](https://github.com/yandex)<br>
   Scalable PostgreSQL connection pooler.
+  
+- **[OpenLara](https://github.com/XProger/OpenLara)** by [Timur Gagiev](https://github.com/XProger)<br>
+  Classic Tomb Raider open-source engine.
 
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
