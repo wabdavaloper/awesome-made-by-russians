@@ -62,6 +62,9 @@
 
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
+  
+- **[Nginx RTMP Module](https://github.com/arut/nginx-rtmp-module)** by [Roman Arutyunyan](https://github.com/arut)<br>
+  Nginx-based Media Streaming Server.
 
 - **[PHP Parser](https://github.com/nikic/PHP-Parser)** by [Nikita Popov](https://github.com/nikic)<br>
   A PHP parser written in PHP.
