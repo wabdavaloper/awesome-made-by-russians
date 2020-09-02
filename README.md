@@ -577,6 +577,9 @@
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
 
+- **[Pb](https://github.com/cheggaaa/pb)** by [Sergey Cherepanov](https://github.com/cheggaaa)<br>
+  Console progress bar for Golang.
+
 - **[PHPDaemon](https://github.com/kakserpom/phpdaemon)** by [Vasily Zorin](https://github.com/kakserpom)<br>
   Asynchronous server-side framework for network applications implemented in PHP using libevent.
 
