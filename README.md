@@ -463,6 +463,9 @@
 - **[GitHub Trending Repos](https://github.com/vitalets/github-trending-repos)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 
+- **[Go! AOP PHP](https://github.com/goaop/framework)** by [Alexander Lisachenko](https://github.com/lisachenko)<br>
+  Modern aspect-oriented framework for the new level of software development.
+
 - **[Google Spreadsheets Python API v4](https://github.com/burnash/gspread)** by [Anton Burnashev](https://github.com/burnash)<br>
   Simple interface for working with Google Sheets.
 
