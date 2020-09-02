@@ -420,6 +420,9 @@
   
 - **[DiDOM](https://github.com/Imangazaliev/DiDOM)** by [Muhammad Imangazaliev](https://github.com/Imangazaliev)<br>
   Simple and fast HTML parser.
+  
+- **[DownloadButton](https://github.com/PavelKatunin/DownloadButton)** by [Pavel Katunin](https://github.com/PavelKatunin)<br>
+  Customizable App Store style download button.
 
 - **[EasyJSON](https://github.com/mailru/easyjson)** by [Mail.Ru Group](https://github.com/mailru)<br>
   Fast JSON serializer for Go.
