@@ -376,6 +376,9 @@
 - **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
   Simple CSS library for semantic HTML markup.
 
+- **[BDWGC](https://github.com/ivmai/bdwgc)** by [Ivan Maidanski](https://github.com/ivmai)<br>
+  The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc).
+
 - **[Benchmarks](https://github.com/kostya/benchmarks)** by [Konstantin Makarchev](https://github.com/kostya)<br>
   Some benchmarks of different languages.
 
