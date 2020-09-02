@@ -463,6 +463,9 @@
 - **[Funcy](https://github.com/Suor/funcy)** by [Alexander Schepanovski](https://github.com/Suor)<br>
   A fancy and practical functional tools.
 
+- **[GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift)** by [Daniil Gavrilov](https://github.com/dani-gavrilov)<br>
+  Shows FPS, CPU and memory usage, device model, app and iOS versions above the status bar and report FPS, CPU and memory usage via delegate.
+
 - **[Gemini](https://github.com/gemini-testing/gemini)** by [Yandex](https://github.com/yandex)<br>
   A utility for regression testing the visual appearance of web pages.
   
