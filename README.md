@@ -341,6 +341,9 @@
 - **[Vuera](https://github.com/akxcv/vuera)** by [Alexander Komarov](https://github.com/akxcv)<br>
   Vue in React, React in Vue. Seamless integration of the two.
   
+- **[WS](https://github.com/gobwas/ws)** by [Sergey Kamardin](https://github.com/gobwas)<br>
+  Tiny WebSocket library for Go.
+  
 - **[X-editable](https://github.com/vitalets/x-editable)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
