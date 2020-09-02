@@ -619,6 +619,9 @@
 - **[Tarantool](https://github.com/tarantool/tarantool)** by [Mail.Ru Group](https://github.com/mailru)<br>
   An in-memory database and application server.
   
+- **[TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit)** by [Alexey Belezeko](https://github.com/AlexeyBelezeko)<br>
+  TBIconTransitionKit is an easy to use icon transition kit that allows to smoothly change from one shape to another.
+  
 - **[TeaVM](https://github.com/konsoletyper/teavm)** by [Alexey Andreev](https://github.com/konsoletyper)<br>
   Compiler of Java bytecode to JavaScript.
   
