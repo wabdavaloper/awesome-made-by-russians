@@ -639,6 +639,9 @@
 
 - **[Social Likes](https://github.com/sapegin/social-likes)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Beautiful social “like” buttons with counters for jQuery.
+  
+- **[Sophia](https://github.com/pmwkaa/sophia)** by [Dmitry Simonenko](https://github.com/pmwkaa)<br>
+  Modern transactional key-value/row storage library..
 
 - **[Sphinx](https://github.com/sphinxsearch/sphinx)** by [Andrew Aksyonoff](https://github.com/shodanium)<br>
   A full text search server.
