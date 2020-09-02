@@ -441,7 +441,10 @@
   
 - **[Eye](https://github.com/kostya/eye)** by [Konstantin Makarchev](https://github.com/kostya)<br>
   Process monitoring tool. Inspired from Bluepill and God.
-  
+
+- **[FastNetMon](https://github.com/pavel-odintsov/fastnetmon)** by [Pavel Odintsov](https://github.com/pavel-odintsov)<br>
+  Very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support.
+
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
   
