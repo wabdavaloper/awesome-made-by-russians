@@ -104,6 +104,9 @@
 
 ## > 3k ★
 
+- **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
+  Network-wide ads & trackers blocking DNS server.
+
 - **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://github.com/albumentations-team)<br>
   Fast image augmentation library and easy to use wrapper around other libraries.
 
