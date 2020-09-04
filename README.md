@@ -314,6 +314,9 @@
 - **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [YSDA](https://github.com/yandexdataschool) & HSE<br>
   A course in reinforcement learning in the wild.
 
+- **[Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)** by [Alex Rogozhnikov](https://github.com/arogozhnikov)<br>
+  A short guide on features of Python 3 with examples.
+
 - **[Python-mode](https://github.com/python-mode/python-mode)** by [Kirill Klenov](https://github.com/klen)<br>
   Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 
