@@ -670,6 +670,9 @@
 - **[Ring UI](https://github.com/JetBrains/ring-ui)** by [JetBrains](https://github.com/JetBrains)<br>
   A collection of JetBrains Web UI components.
 
+- **[Ru Test Assignments](https://github.com/Hexlet/ru-test-assignments)** by [Hexlet](https://github.com/Hexlet)<br>
+  Test Assignments of Russian IT companies.
+
 - **[Rum](https://github.com/tonsky/rum)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript.
 
