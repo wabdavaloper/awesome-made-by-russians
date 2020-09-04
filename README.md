@@ -451,6 +451,9 @@
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Implementation of EfficientNet model. Keras and TensorFlow Keras.
   
+- **[Einops](https://github.com/arogozhnikov/einops)** by [Alex Rogozhnikov](https://github.com/arogozhnikov)<br>
+  Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others).
+  
 - **[Everpad](https://github.com/nvbn/everpad)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Evernote client well integrated with Linux desktop.
   
