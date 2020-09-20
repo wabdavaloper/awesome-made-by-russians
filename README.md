@@ -646,6 +646,9 @@
 - **[React Document Title](https://github.com/gaearon/react-document-title)** by [Dav Abramov](https://github.com/gaearon)<br>
   Declarative, nested, stateful, isomorphic document.title for React.
 
+- **[React Input Mask](https://github.com/sanniassin/react-input-mask)** by [Nikita Lobachev](https://github.com/sanniassin)<br>
+  Input masking component for React. Made with attention to UX..
+
 - **[React Makes You Sad](https://github.com/gaearon/react-makes-you-sad)** by [Dav Abramov](https://github.com/gaearon)<br>
   Here’s a flowchart to make you happy again!
 
