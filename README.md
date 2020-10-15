@@ -721,6 +721,9 @@
 - **[SVG Sprite Loader](https://github.com/JetBrains/svg-sprite-loader)** by [Stas Kurilov](https://github.com/kisenka)<br>
   Webpack loader for creating SVG sprites.
   
+- **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)<br>
+  CSS Framework for Dummies, without Classes.
+  
 - **[Tarantool](https://github.com/tarantool/tarantool)** by [Mail.Ru Group](https://github.com/mailru)<br>
   An in-memory database and application server.
   
