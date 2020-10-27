@@ -429,6 +429,9 @@
 
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
+  
+- **[CSSTree](https://github.com/csstree/csstree)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
+  A tool set for CSS: [fast](https://github.com/postcss/benchmark) detailed parser (CSS → AST), walker (AST traversal), generator (AST → CSS) and lexer (validation and matching) based on specs and browser implementations.
 
 - **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
   Data science interview questions and answers.
