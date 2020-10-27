@@ -418,6 +418,9 @@
 - **[Checklist model](https://github.com/vitalets/checklist-model)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   AngularJS directive for list of checkboxes.
   
+- **[ClickHouse Go](https://github.com/ClickHouse/clickhouse-go)** by [Kirill Shvakov](https://github.com/kshvakov)<br>
+  Golang driver for ClickHouse.
+  
 - **[ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter)** by [Max Strakhov](https://github.com/Monnoroch)<br>
   A plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes with their real color and adds color picker to easily modify colors.
 
