@@ -757,6 +757,9 @@
 - **[Visibility.js](https://github.com/ai/visibilityjs)** by [Andrey Sitnik](https://github.com/ai)<br>
   Wrapper for the Page Visibility API.
 
+- **[Wemake Django Template](https://github.com/wemake-services/wemake-django-template)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
+  Bleeding edge Django template focused on code quality and security.
+
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   The strictest and most opinionated Python linter ever!
   
