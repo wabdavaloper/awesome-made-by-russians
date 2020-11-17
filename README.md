@@ -433,6 +433,9 @@
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
   
+- **[Compose JetBrains](https://github.com/JetBrains/compose-jb)** by [JetBrains](https://github.com/JetBrains)<br>
+  Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+  
 - **[CSSTree](https://github.com/csstree/csstree)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   A tool set for CSS: [fast](https://github.com/postcss/benchmark) detailed parser (CSS → AST), walker (AST traversal), generator (AST → CSS) and lexer (validation and matching) based on specs and browser implementations.
 
@@ -544,6 +547,9 @@
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
   
+- **[IntelliJ Scala](https://github.com/JetBrains/intellij-scala)** by [JetBrains](https://github.com/JetBrains)<br>
+  Scala plugin for IntelliJ IDEA.
+
 - **[Ino](https://github.com/amperka/ino)** by [Amperka](https://github.com/amperka)<br>
   Command line toolkit for working with Arduino hardware.
   
