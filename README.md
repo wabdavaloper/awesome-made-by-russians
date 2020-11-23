@@ -604,6 +604,9 @@
 - **[MTMR](https://github.com/Toxblh/MTMR)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) & [Daniel Apatin](https://github.com/ad)<br>
   The Touch Bar Customisation App for your MacBook Pro.
 
+- **[Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker/)** by [Andrey Smorodov](https://github.com/Smorodov), [Sergey Nuzhny](https://github.com/Nuzhny007/)<br>
+  Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
+
 - **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
   A lightweight dynamic open-source server for diverse web applications.
   
