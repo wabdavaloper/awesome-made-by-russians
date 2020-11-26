@@ -158,6 +158,9 @@
 - **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
   
+- **[Deep image prior](https://github.com/DmitryUlyanov/deep-image-prior)** by [Dmitry Ulyanov](https://github.com/DmitryUlyanov)<br>
+  Deep learning tools for image denoising and restoration.
+
 - **[DeepPavlov](https://github.com/deepmipt/DeepPavlov)** by [Neural Networks and Deep Learning lab, MIPT](https://github.com/deepmipt)<br>
   An open-source conversational AI library built on TensorFlow and Keras.
 
