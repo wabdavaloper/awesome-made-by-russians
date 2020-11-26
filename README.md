@@ -711,6 +711,9 @@
 
 - **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
   A Photoshop script that makes measurement marks.
+  
+- **[Skija](https://github.com/JetBrains/skija)** by [JetBrains](https://github.com/JetBrains)<br>
+  Skia bindings for Java.
 
 - **[Social Likes](https://github.com/sapegin/social-likes)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Beautiful social “like” buttons with counters for jQuery.
