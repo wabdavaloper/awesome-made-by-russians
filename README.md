@@ -616,6 +616,9 @@
 - **[Nmap Vulners](https://github.com/vulnersCom/nmap-vulners)** by [Vulners Team](https://github.com/vulnersCom)<br>
   NSE script based on Vulners.com API.
   
+- **[NMSLIB](https://github.com/nmslib/nmslib)** by [Leonid Boytsov](https://github.com/searchivarius)<br>
+  An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces. A part of Amazon Elasticsearch Service.
+  
 - **[Node IP](https://github.com/indutny/node-ip)** by [Fedor Indutny](https://github.com/indutny)<br>
   IP address tools for Node.js.
   
