@@ -146,7 +146,7 @@
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
 
-- **[Cube.js](https://github.com/cube-js/cube.js)** by [Cube.dev](https://cube.dev)<br>
+- **[Cube.js](https://github.com/cube-js/cube.js)** by [Cube Dev](https://cube.dev)<br>
   Open-Source Analytical API Platform.
   
 - **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
