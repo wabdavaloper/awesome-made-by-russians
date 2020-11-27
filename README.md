@@ -50,15 +50,15 @@
   
 - **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)<br>
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
-  
-- **[IntelliJ Plugins](https://github.com/JetBrains/intellij-plugins)** by [JetBrains](https://github.com/JetBrains)<br>
-  Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform.
 
 - **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
   Modern JavaScript Tutorial in English. There're also highly popular [Chinese](https://github.com/javascript-tutorial/zh.javascript.info) and [Russian](https://github.com/javascript-tutorial/ru.javascript.info) versions.
 
 - **[Markdown it](https://github.com/markdown-it/markdown-it)** by [Vitaly Puzrin](https://github.com/puzrin) & [Alex Kocharin](https://github.com/rlidwka)<br>
   Markdown parser done right. Fast and easy to extend.
+
+- **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
+  A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
@@ -71,6 +71,9 @@
 
 - **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)<br>
   Tool for transforming styles with JS plugins.
+  
+- **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
+  A Zsh theme.
   
 - **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** by [Dan Abramov](https://github.com/gaearon)<br>
   Tweak React components in real time.
@@ -155,6 +158,9 @@
 - **[Data Science Blogs](https://github.com/rushter/data-science-blogs)** by [Artem Golubin](https://github.com/rushter)<br>
   A curated list of data science blogs.
 
+- **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
+  Data science interview questions and answers.
+
 - **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
   
@@ -214,6 +220,9 @@
 
 - **[Google Map React](https://github.com/google-map-react/google-map-react)** by [Ivan Starkov](https://github.com/istarkov)<br>
   React library for Google Maps that allows rendering components as markers.
+
+- **[Google Spreadsheets Python API v4](https://github.com/burnash/gspread)** by [Anton Burnashev](https://github.com/burnash)<br>
+  Simple interface for working with Google Sheets.
 
 - **[Gruvbox](https://github.com/morhetz/gruvbox)** by [Pavel Pertsev](https://github.com/morhetz)<br>
   Retro groove color scheme for Vim and [other text editors](https://github.com/morhetz/gruvbox-contrib).
@@ -286,9 +295,6 @@
   
 - **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   High-performance fake data generator for Python.
-  
-- **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
-  A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
 - **[Netty Socket.IO](https://github.com/mrniko/netty-socketio)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Socket.IO server implemented on Java. Realtime Java framework.
@@ -313,9 +319,6 @@
 
 - **[Piggy Metrics](https://github.com/sqshq/piggymetrics)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
   Microservice Architecture with Spring Boot, Spring Cloud and Docker.
-
-- **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
-  A Zsh theme.
 
 - **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [YSDA](https://github.com/yandexdataschool) & HSE<br>
   A course in reinforcement learning in the wild.
@@ -444,9 +447,6 @@
   
 - **[CSSTree](https://github.com/csstree/csstree)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   A tool set for CSS: [fast](https://github.com/postcss/benchmark) detailed parser (CSS → AST), walker (AST traversal), generator (AST → CSS) and lexer (validation and matching) based on specs and browser implementations.
-
-- **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
-  Data science interview questions and answers.
   
 - **[DFImageManager](https://github.com/kean/DFImageManager)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Advanced Objective-C framework for loading, caching, processing, displaying and preheating images.
@@ -532,9 +532,6 @@
 - **[Go! AOP PHP](https://github.com/goaop/framework)** by [Alexander Lisachenko](https://github.com/lisachenko)<br>
   Modern aspect-oriented framework for the new level of software development.
 
-- **[Google Spreadsheets Python API v4](https://github.com/burnash/gspread)** by [Anton Burnashev](https://github.com/burnash)<br>
-  Simple interface for working with Google Sheets.
-
 - **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
   Your Rails variables in your JS.
 
@@ -552,6 +549,9 @@
 
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
+  
+- **[IntelliJ Plugins](https://github.com/JetBrains/intellij-plugins)** by [JetBrains](https://github.com/JetBrains)<br>
+  Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform.
   
 - **[IntelliJ Scala](https://github.com/JetBrains/intellij-scala)** by [JetBrains](https://github.com/JetBrains)<br>
   Scala plugin for IntelliJ IDEA.
