@@ -672,6 +672,9 @@
 
 - **[React Document Title](https://github.com/gaearon/react-document-title)** by [Dav Abramov](https://github.com/gaearon)<br>
   Declarative, nested, stateful, isomorphic document.title for React.
+  
+- **[React Figma](https://github.com/react-figma/react-figma)** by [Ilya Lesik](https://github.com/ilyalesik)<br>
+  A React renderer for Figma.  
 
 - **[React Input Mask](https://github.com/sanniassin/react-input-mask)** by [Nikita Lobachev](https://github.com/sanniassin)<br>
   Input masking component for React. Made with attention to UX..
