@@ -84,6 +84,9 @@
 - **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Redis Java client with features of In-Memory Data Grid.
   
+- **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
+  A better ORM for Go and `database/sql`.
+
 - **[SVGO](https://github.com/svg/svgo)** by [Lev Solntsev](https://github.com/GreLI) (main contributor)<br>
   Node.js-based tool for optimizing SVG vector graphics files.
   
