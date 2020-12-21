@@ -43,7 +43,7 @@
   Full featured HTML framework for building iOS & Android apps.
   
 - **[fx](https://github.com/antonmedv/fx)** by [Anton Medvedev](https://github.com/antonmedv)<br>
-  Command-line tool and terminal JSON viewer
+  Command-line tool and terminal JSON viewer.
 
 - **[GoReplay](https://github.com/buger/goreplay)** by [Leonid Bugaev](https://github.com/buger)<br>
   An open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
@@ -177,7 +177,7 @@
   An open-source conversational AI library built on TensorFlow and Keras.
 
 - **[Deployer](https://github.com/deployphp/deployer)** by [Anton Medvedev](https://github.com/antonmedv)<br>
-  A deployment tool written in PHP with support for popular frameworks out of the box
+  A deployment tool written in PHP with support for popular frameworks out of the box.
 
 - **[EAIntroView](https://github.com/ealeksandrov/EAIntroView)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Highly customizable drop-in solution for introduction views.
@@ -488,7 +488,7 @@
   An example of web application comprising of several components communicating to each other.
   
 - **[Expr](https://github.com/antonmedv/expr)** by [Anton Medvedev](https://github.com/antonmedv)<br>
-  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing
+  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing.
 
 - **[Eye](https://github.com/kostya/eye)** by [Konstantin Makarchev](https://github.com/kostya)<br>
   Process monitoring tool. Inspired from Bluepill and God.
@@ -533,7 +533,7 @@
   A bash-tool to store your private data inside a Git repository.
 
 - **[GitHub Trending Repos](https://github.com/vitalets/github-trending-repos)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
-  Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+  Track GitHub trending repositories in your favorite programming language by native GitHub notifications.
 
 - **[Go Daemon](https://github.com/takama/daemon)** by [Igor Dolzhikov](https://github.com/takama)<br>
   A daemon package for use with Golang services.
@@ -689,10 +689,10 @@
   A React renderer for Figma.  
 
 - **[React Input Mask](https://github.com/sanniassin/react-input-mask)** by [Nikita Lobachev](https://github.com/sanniassin)<br>
-  Input masking component for React. Made with attention to UX..
+  Input masking component for React. Made with attention to UX.
 
 - **[React Makes You Sad](https://github.com/gaearon/react-makes-you-sad)** by [Dav Abramov](https://github.com/gaearon)<br>
-  Here’s a flowchart to make you happy again!
+  Here’s a flowchart to make you happy again.
 
 - **[React Native Extended StyleSheet](https://github.com/vitalets/react-native-extended-stylesheet)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   Drop-in replacement of React Native StyleSheet with media-queries, variables, dynamic themes, relative units, percents, math operations, scaling and other styling stuff.
@@ -707,7 +707,7 @@
   Transparent TCP-to-proxy redirector.
 
 - **[Returns](https://github.com/dry-python/returns)** by [Dry Python](https://github.com/dry-python)<br>
-  Make your Python functions return something meaningful, typed, and safe!
+  Make your Python functions return something meaningful, typed, and safe.
 
 - **[RIFM](https://github.com/realadvisor/rifm)** by [Ivan Starkov](https://github.com/istarkov) and [Bogdan Chadkin](https://github.com/TrySound)<br>
   React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc.
@@ -743,7 +743,7 @@
   Beautiful social “like” buttons with counters for jQuery.
   
 - **[Sophia](https://github.com/pmwkaa/sophia)** by [Dmitry Simonenko](https://github.com/pmwkaa)<br>
-  Modern transactional key-value/row storage library..
+  Modern transactional key-value/row storage library.
 
 - **[Sphinx](https://github.com/sphinxsearch/sphinx)** by [Andrew Aksyonoff](https://github.com/shodanium)<br>
   A full text search server.
@@ -797,7 +797,7 @@
   Bleeding edge Django template focused on code quality and security.
 
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
-  The strictest and most opinionated Python linter ever!
+  The strictest and most opinionated Python linter ever.
   
 - **[Werf](https://github.com/werf/werf)** by [Flant](https://github.com/flant)<br>
   GitOps CI/CD tool, for containers and Kubernetes.
