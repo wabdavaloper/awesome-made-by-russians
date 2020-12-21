@@ -6,7 +6,7 @@
 
 - **[Fira Code](https://github.com/tonsky/FiraCode)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   Free monospaced font with programming ligatures.
-  
+
 - **[Kotlin](https://github.com/JetBrains/kotlin)** by [JetBrains](https://github.com/JetBrains)<br>
   Programming language.
 
@@ -23,34 +23,34 @@
 
 - **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)<br>
   PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
-  
+
 - **[Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)** by [Alexander Bayandin](https://github.com/bayandin)<br>
   A curated list of awesome awesomeness.
-  
+
 - **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** by [Yandex](https://github.com/yandex)<br>
   A free analytics DBMS for big data.
-  
+
 - **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock)<br>
   Modular standard library for JavaScript.
-  
+
 - **[Date FNS](https://github.com/date-fns/date-fns)** by [Sasha Koss](https://github.com/kossnocorp) & [Lesha Koss](https://github.com/leshakoss)<br>
   Modern JavaScript date utility library.
-  
+
 - **[Editor.js](https://github.com/codex-team/editor.js)** by [Codex Team](https://github.com/codex-team)<br>
-  API-oriented, block-styled editor for Media. Generates useful JSON-output with clear data. 
-  
+  API-oriented, block-styled editor for Media. Generates useful JSON-output with clear data.
+
 - **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Full featured HTML framework for building iOS & Android apps.
-  
+
 - **[fx](https://github.com/antonmedv/fx)** by [Anton Medvedev](https://github.com/antonmedv)<br>
   Command-line tool and terminal JSON viewer.
 
 - **[GoReplay](https://github.com/buger/goreplay)** by [Leonid Bugaev](https://github.com/buger)<br>
   An open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
-  
+
 - **[Highlight.js](https://github.com/highlightjs/highlight.js)** by [Ivan Sagalaev](https://github.com/isagalaev)<br>
   JavaScript syntax highlighter.
-  
+
 - **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)<br>
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
 
@@ -65,7 +65,7 @@
 
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
-  
+
 - **[Nginx RTMP Module](https://github.com/arut/nginx-rtmp-module)** by [Roman Arutyunyan](https://github.com/arut)<br>
   Nginx-based Media Streaming Server.
 
@@ -74,28 +74,28 @@
 
 - **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)<br>
   Tool for transforming styles with JS plugins.
-  
+
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   A Zsh theme.
-  
+
 - **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** by [Dan Abramov](https://github.com/gaearon)<br>
   Tweak React components in real time.
-  
+
 - **[React Native macOS](https://github.com/ptmt/react-native-macos)** by [Dima Loktev](https://github.com/ptmt)<br>
   React Native for macOS is an experimental fork for writing desktop apps using Cocoa.
-  
+
 - **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Redis Java client with features of In-Memory Data Grid.
-  
+
 - **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
   A better ORM for Go and `database/sql`.
 
 - **[SVGO](https://github.com/svg/svgo)** by [Lev Solntsev](https://github.com/GreLI) (main contributor)<br>
   Node.js-based tool for optimizing SVG vector graphics files.
-  
+
 - **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Most modern mobile touch slider with hardware accelerated transitions.
-  
+
 - **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
   Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
 
@@ -107,7 +107,7 @@
 
 - **[WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)** by [Maxim Gumin](https://github.com/mxgmn)<br>
   Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
-  
+
 - **[Yolo](https://github.com/AlexeyAB/darknet)** by [Alexey Bochkovskiy](https://github.com/AlexeyAB)<br>
   Neural Networks for Object Detection (Windows and Linux version of Darknet).
 
@@ -142,7 +142,7 @@
 
 - **[Centrifugo](https://github.com/centrifugal/centrifugo)** by [Alexander Emelin](https://github.com/FZambia)<br>
   Scalable real-time messaging server in language-agnostic way.
-  
+
 - **[Cerebro](https://github.com/KELiON/cerebro)** by [Alexandr Subbotin](https://github.com/KELiON)<br>
   Cross-plaform modular launcher app like Spotlight and Alfred.
 
@@ -157,7 +157,7 @@
 
 - **[Cube.js](https://github.com/cube-js/cube.js)** by [Cube Dev](https://cube.dev)<br>
   Open-Source Analytical API Platform.
-  
+
 - **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
   Powerful and efficient Computer Vision Annotation Tool.
 
@@ -169,7 +169,7 @@
 
 - **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
-  
+
 - **[Deep image prior](https://github.com/DmitryUlyanov/deep-image-prior)** by [Dmitry Ulyanov](https://github.com/DmitryUlyanov)<br>
   Deep learning tools for image denoising and restoration.
 
@@ -184,16 +184,16 @@
 
 - **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
   Easing Functions Cheat Sheet.
-  
+
 - **[ElFinder](https://github.com/Studio-42/elFinder)** by [Studio 42](https://github.com/Studio-42)<br>
   Open-source file manager for web, written in JavaScript using jQuery and jQuery UI.
 
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
-  
+
 - **[Emmet Sublime](https://github.com/sergeche/emmet-sublime)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   Emmet for Sublime Text.
-  
+
 - **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)<br>
   Simple and clean SVG icon pack.
 
@@ -205,7 +205,7 @@
 
 - **[FileAPI](https://github.com/mailru/FileAPI)** by [Mail.Ru Group](https://github.com/mailru)<br>
   Set of JavaScript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
-  
+
 - **[Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)** by [Andrey Romanov](https://github.com/andrew--r)<br>
   A curated list of technical talks and articles about real-world enterprise frontend development.
 
@@ -220,7 +220,7 @@
 
 - **[Go Fuzz](https://github.com/dvyukov/go-fuzz)** by [Dmitry Vyukov](https://github.com/dvyukov)<br>
   Randomized testing for Go.
-  
+
 - **[Go UUID](https://github.com/satori/go.uuid)** by [Maxim Bublis](https://github.com/satori)<br>
   UUID package for Go.
 
@@ -241,7 +241,7 @@
 
 - **[HTMLMinifier](https://github.com/kangax/html-minifier)** by [Juriy Zaytsev](https://github.com/kangax)<br>
   JavaScript-based HTML compressor/minifier (with Node.js support).
-  
+
 - **[HTML-GL](https://github.com/pixelscommander/html-gl)** by [Denis Radin](https://github.com/pixelscommander)<br>
   Render HTML/CSS in WebGL for a better performance and unlimited visual effects.
 
@@ -250,7 +250,7 @@
 
 - **[iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)** by [Artem Novichkov](https://github.com/artemnovichkov)<br>
   Examples of new iOS 11 APIs.
-  
+
 - **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Fast and secure standalone server for resizing and converting remote images.
 
@@ -265,10 +265,10 @@
 
 - **[JS YAML](https://github.com/nodeca/js-yaml)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   JavaScript YAML parser and dumper. Very fast.
-  
+
 - **[JSON Parser](https://github.com/buger/jsonparser)** by [Leonid Bugaev](https://github.com/buger)<br>
   One of the fastest alternative JSON parser for Go that does not require schema.
-  
+
 - **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
   Authoring tool for CSS which uses JavaScript as a host language.
 
@@ -277,7 +277,7 @@
 
 - **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-  
+
 - **[Kotlin Native](https://github.com/JetBrains/kotlin-native)** by [JetBrains](https://github.com/JetBrains)<br>
   Kotlin/Native infrastructure.
 
@@ -286,22 +286,22 @@
 
 - **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
   Tool for running linters on Git staged files.
-  
+
 - **[Linux Deploy](https://github.com/meefik/linuxdeploy)** by [Anton Skshidlevsky](https://github.com/meefik)<br>
   Install and run GNU/Linux on Android.
-  
+
 - **[Machine Learning Algorithms](https://github.com/rushter/MLAlgorithms)** by [Artem Golubin](https://github.com/rushter)<br>
   Minimal and clean examples of machine learning algorithms implementations.
-  
+
 - **[MLCourse.ai](https://github.com/Yorko/mlcourse.ai)** by [Yury Kashnitsky](https://github.com/Yorko) (main contributor)<br>
   Open Machine Learning Course.
-  
+
 - **[Redux Logger](https://github.com/LogRocket/redux-logger)** by [Evgeny Rodionov](https://github.com/evgenyrodionov)<br>
   Logger for Redux.
-  
+
 - **[Macaw](https://github.com/exyte/Macaw)** by [Exyte](https://github.com/exyte)<br>
   Powerful and easy-to-use vector graphics Swift library with SVG support
-  
+
 - **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   High-performance fake data generator for Python.
 
@@ -358,19 +358,19 @@
 
 - **[Tiny RayTracer](https://github.com/ssloy/tinyraytracer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about RayTracing.
-  
+
 - **[Tiny Renderer](https://github.com/ssloy/tinyrenderer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about OpenGL.
-  
+
 - **[Transitions Everywhere](https://github.com/andkulikov/Transitions-Everywhere)** by [Andrey Kulikov](https://github.com/andkulikov)<br>
   Set of extra Transitions on top of Jetpack Transitions Library.
-  
+
 - **[Vuera](https://github.com/akxcv/vuera)** by [Alexander Komarov](https://github.com/akxcv)<br>
   Vue in React, React in Vue. Seamless integration of the two.
-  
+
 - **[WS](https://github.com/gobwas/ws)** by [Sergey Kamardin](https://github.com/gobwas)<br>
   Tiny WebSocket library for Go.
-  
+
 - **[X-editable](https://github.com/vitalets/x-editable)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
@@ -396,7 +396,7 @@
 
 - **[ARTetris](https://github.com/exyte/ARTetris)** by [Exyte](https://github.com/exyte)<br>
   Augmented Reality Tetris made with ARKit and SceneKit.
-  
+
 - **[Autobind Decorator](https://github.com/andreypopp/autobind-decorator)** by [Andrey Popp](https://github.com/andreypopp)<br>
   Decorator to automatically bind methods to class instances.
 
@@ -408,7 +408,7 @@
 
 - **[Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)** by [Alexander Myshov](https://github.com/myshov)<br>
   A curated list of awesome resources for mobile web development.
-  
+
 - **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
   Simple CSS library for semantic HTML markup.
 
@@ -420,7 +420,7 @@
 
 - **[Big-O Poster](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
-  
+
 - **[Bt](https://github.com/atomashpolskiy/bt)** by [Andrei Tomashpolskiy](https://github.com/atomashpolskiy)<br>
   BitTorrent library and client with DHT, magnet links, encryption and more.
 
@@ -435,10 +435,10 @@
 
 - **[Checklist model](https://github.com/vitalets/checklist-model)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   AngularJS directive for list of checkboxes.
-  
+
 - **[ClickHouse Go](https://github.com/ClickHouse/clickhouse-go)** by [Kirill Shvakov](https://github.com/kshvakov)<br>
   Golang driver for ClickHouse.
-  
+
 - **[ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter)** by [Max Strakhov](https://github.com/Monnoroch)<br>
   A plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes with their real color and adds color picker to easily modify colors.
 
@@ -450,19 +450,19 @@
 
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
-  
+
 - **[Compose JetBrains](https://github.com/JetBrains/compose-jb)** by [JetBrains](https://github.com/JetBrains)<br>
   Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-  
+
 - **[CSSTree](https://github.com/csstree/csstree)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   A tool set for CSS: [fast](https://github.com/postcss/benchmark) detailed parser (CSS → AST), walker (AST traversal), generator (AST → CSS) and lexer (validation and matching) based on specs and browser implementations.
-  
+
 - **[DFImageManager](https://github.com/kean/DFImageManager)** by [Alex Grebenyuk](https://github.com/kean)<br>
   Advanced Objective-C framework for loading, caching, processing, displaying and preheating images.
-  
+
 - **[DiDOM](https://github.com/Imangazaliev/DiDOM)** by [Muhammad Imangazaliev](https://github.com/Imangazaliev)<br>
   Simple and fast HTML parser.
-  
+
 - **[DownloadButton](https://github.com/PavelKatunin/DownloadButton)** by [Pavel Katunin](https://github.com/PavelKatunin)<br>
   Customizable App Store style download button.
 
@@ -471,22 +471,22 @@
 
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias)<br>
   An effective multi-store state manager for JavaScript apps.
-  
+
 - **[Elliptic](https://github.com/indutny/elliptic)** by [Fedor Indutny](https://github.com/indutny)<br>
   Fast Elliptic Curve Cryptography in plain JavaScript.
-  
+
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Implementation of EfficientNet model. Keras and TensorFlow Keras.
-  
+
 - **[Einops](https://github.com/arogozhnikov/einops)** by [Alex Rogozhnikov](https://github.com/arogozhnikov)<br>
   Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others).
-  
+
 - **[Everpad](https://github.com/nvbn/everpad)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Evernote client well integrated with Linux desktop.
-  
+
 - **[Example microservice app](https://github.com/elgris/microservice-app-example)** by [Ivan Kirichenko](https://github.com/elgris)<br>
   An example of web application comprising of several components communicating to each other.
-  
+
 - **[Expr](https://github.com/antonmedv/expr)** by [Anton Medvedev](https://github.com/antonmedv)<br>
   Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing.
 
@@ -501,16 +501,16 @@
 
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
-  
+
 - **[Flux React Router Example](https://github.com/gaearon/flux-react-router-example)** by [Dav Abramov](https://github.com/gaearon)<br>
   A sample app showcasing Flux with React Router.
-  
+
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)<br>
   A simple, stunning, powerful jQuery gallery.
-  
+
 - **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)<br>
   A repo with Russian translation of common terms and famous developers names.
-  
+
 - **[Funcy](https://github.com/Suor/funcy)** by [Alexander Schepanovski](https://github.com/Suor)<br>
   A fancy and practical functional tools.
 
@@ -519,7 +519,7 @@
 
 - **[Gemini](https://github.com/gemini-testing/gemini)** by [Yandex](https://github.com/yandex)<br>
   A utility for regression testing the visual appearance of web pages.
-  
+
 - **[Getsploit](https://github.com/vulnersCom/getsploit)** by [Vulners Team](https://github.com/vulnersCom)<br>
   Command line utility for searching and downloading exploits.
 
@@ -552,7 +552,7 @@
 
 - **[Grafana Zabbix](https://github.com/alexanderzobnin/grafana-zabbix)** by [Alexander Zobnin](https://github.com/alexanderzobnin)<br>
   Zabbix plugin for Grafana dashboard.
-  
+
 - **[Grunt Webfont](https://github.com/sapegin/grunt-webfont)** by [Artem Sapegin](https://github.com/sapegin)<br>
   SVG to webfont converter for Grunt.
 
@@ -561,31 +561,31 @@
 
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
-  
+
 - **[IntelliJ Plugins](https://github.com/JetBrains/intellij-plugins)** by [JetBrains](https://github.com/JetBrains)<br>
   Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform.
-  
+
 - **[IntelliJ Scala](https://github.com/JetBrains/intellij-scala)** by [JetBrains](https://github.com/JetBrains)<br>
   Scala plugin for IntelliJ IDEA.
 
 - **[Ino](https://github.com/amperka/ino)** by [Amperka](https://github.com/amperka)<br>
   Command line toolkit for working with Arduino hardware.
-  
+
 - **[Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider)** by [Denis Ineshin](https://github.com/IonDen)<br>
   jQuery only range slider.
-  
+
 - **[jQuery.appear](https://github.com/morr/jquery.appear)** by [Andrey Sidorov](https://github.com/morr)<br>
   jQuery plugin for tracking element's appearance in browser viewport.
-  
+
 - **[jQuery.my](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
-  
+
 - **[Konmik.com](https://github.com/konmik/konmik.github.io)** by [Konstantin Mikheev](https://github.com/konmik)<br>
   Blog: Programming theory, Java, Android.
-  
+
 - **[KxMenu](https://github.com/kolyvan/kxmenu)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A vertical popup menu for using in iOS applications.
-  
+
 - **[KxMovie](https://github.com/kolyvan/kxmovie)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A movie player for iOS using ffmpeg.
 
@@ -606,7 +606,7 @@
 
 - **[LuaCheck](https://github.com/mpeterv/luacheck)** by [Peter Melnichenko](https://github.com/mpeterv)<br>
   A tool for linting and static analysis of Lua code.
-  
+
 - **[LuaFun](https://github.com/luafun/luafun)** by [Roman Tsisyk](https://github.com/rtsisyk)<br>
   A high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 
@@ -627,28 +627,28 @@
 
 - **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
   A lightweight dynamic open-source server for diverse web applications.
-  
+
 - **[Nmap Vulners](https://github.com/vulnersCom/nmap-vulners)** by [Vulners Team](https://github.com/vulnersCom)<br>
   NSE script based on Vulners.com API.
-  
+
 - **[NMSLIB](https://github.com/nmslib/nmslib)** by [Leonid Boytsov](https://github.com/searchivarius)<br>
   An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces. A part of Amazon Elasticsearch Service.
-  
+
 - **[Node IP](https://github.com/indutny/node-ip)** by [Fedor Indutny](https://github.com/indutny)<br>
   IP address tools for Node.js.
-  
+
 - **[Node SPDY](https://github.com/spdy-http2/node-spdy)** by [Fedor Indutny](https://github.com/indutny)<br>
   SPDY server on Node.js.
-  
+
 - **[NodeEnv](https://github.com/ekalinin/nodeenv)** by [Eugene Kalinin](https://github.com/ekalinin)<br>
   Virtual environment for Node.js & integrator with virtualenv.
-  
+
 - **[Nucleus](https://github.com/konmik/nucleus)** by [Konstantin Mikheev](https://github.com/konmik)<br>
   An Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
 
 - **[Odyssey](https://github.com/yandex/odyssey)** by [Yandex](https://github.com/yandex)<br>
   Scalable PostgreSQL connection pooler.
-  
+
 - **[OpenLara](https://github.com/XProger/OpenLara)** by [Timur Gagiev](https://github.com/XProger)<br>
   Classic Tomb Raider open-source engine.
 
@@ -663,19 +663,19 @@
 
 - **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   Resize image in browser with high quality and high speed.
-  
+
 - **[PonyORM](https://github.com/ponyorm/pony)** by [Alexander Kozlovsky](https://github.com/kozlovsky) & [Alexey Malashkevich](https://github.com/amalashkevich)<br>
   The most pythonic ORM with beautiful query syntax.
 
 - **[PostCSS Modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)<br>
   PostCSS plugin to use CSS Modules everywhere.
-  
+
 - **[PostCSS Px To Viewport](https://github.com/evrone/postcss-px-to-viewport)** by [Dmitry Karpunin](https://github.com/KODerFunk)<br>
-  A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. 
+  A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units.
 
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
   A tool to transform HTML/XML with JS plugins.
-  
+
 - **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Quick Look plugin for apps and provisioning profile files.
 
@@ -684,9 +684,9 @@
 
 - **[React Document Title](https://github.com/gaearon/react-document-title)** by [Dav Abramov](https://github.com/gaearon)<br>
   Declarative, nested, stateful, isomorphic document.title for React.
-  
+
 - **[React Figma](https://github.com/react-figma/react-figma)** by [Ilya Lesik](https://github.com/ilyalesik)<br>
-  A React renderer for Figma.  
+  A React renderer for Figma.
 
 - **[React Input Mask](https://github.com/sanniassin/react-input-mask)** by [Nikita Lobachev](https://github.com/sanniassin)<br>
   Input masking component for React. Made with attention to UX.
@@ -702,7 +702,7 @@
 
 - **[React Side Effect](https://github.com/gaearon/react-side-effect)** by [Dav Abramov](https://github.com/gaearon)<br>
   Create components whose nested prop changes map to a global side effect.
-  
+
 - **[Redsocks](https://github.com/darkk/redsocks)** by [Leonid Evdokimov](https://github.com/darkk)<br>
   Transparent TCP-to-proxy redirector.
 
@@ -735,22 +735,22 @@
 
 - **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
   A Photoshop script that makes measurement marks.
-  
+
 - **[Skija](https://github.com/JetBrains/skija)** by [JetBrains](https://github.com/JetBrains)<br>
   Skia bindings for Java.
 
 - **[Social Likes](https://github.com/sapegin/social-likes)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Beautiful social “like” buttons with counters for jQuery.
-  
+
 - **[Sophia](https://github.com/pmwkaa/sophia)** by [Dmitry Simonenko](https://github.com/pmwkaa)<br>
   Modern transactional key-value/row storage library.
 
 - **[Sphinx](https://github.com/sphinxsearch/sphinx)** by [Andrew Aksyonoff](https://github.com/shodanium)<br>
   A full text search server.
-  
+
 - **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte.
-  
+
 - **[StreamEx](https://github.com/amaembo/streamex)** by [Tagir Valeev](https://github.com/amaembo)<br>
   Enhancing Java Stream API.
 
@@ -759,22 +759,22 @@
 
 - **[SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)** by [Anton Malinskiy](https://github.com/Malinskiy)<br>
   Pumped up RecyclerView.
-  
+
 - **[SVG Sprite Loader](https://github.com/JetBrains/svg-sprite-loader)** by [Stas Kurilov](https://github.com/kisenka)<br>
   Webpack loader for creating SVG sprites.
-  
+
 - **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)<br>
   CSS Framework for Dummies, without Classes.
-  
+
 - **[Tarantool](https://github.com/tarantool/tarantool)** by [Mail.Ru Group](https://github.com/mailru)<br>
   An in-memory database and application server.
-  
+
 - **[TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit)** by [Alexey Belezeko](https://github.com/AlexeyBelezeko)<br>
   An easy to use icon transition kit that allows to smoothly change from one shape to another.
-  
+
 - **[TeaVM](https://github.com/konsoletyper/teavm)** by [Alexey Andreev](https://github.com/konsoletyper)<br>
   Compiler of Java bytecode to JavaScript.
-  
+
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
 
@@ -798,7 +798,7 @@
 
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   The strictest and most opinionated Python linter ever.
-  
+
 - **[Werf](https://github.com/werf/werf)** by [Flant](https://github.com/flant)<br>
   GitOps CI/CD tool, for containers and Kubernetes.
 
@@ -807,13 +807,13 @@
 
 - **[WhatTheFuck.Is](https://github.com/gaearon/whatthefuck.is)** by [Dav Abramov](https://github.com/gaearon)<br>
   An opinionated glossary of computer science terms for front-end developers.
-  
+
 - **[When](https://github.com/olebedev/when)** by [Oleg Lebedev](https://github.com/olebedev)<br>
   A natural language date/time parser with pluggable rules.
 
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
-  
+
 - **[Xabber](https://github.com/redsolution/xabber-android)** by [Redsolution](https://github.com/redsolution)<br>
   XMPP client for Android.
 
@@ -822,12 +822,12 @@
 
 - **[Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)** by [Alexander Makarov](https://github.com/samdark)<br>
   An open source book full of tips and tricks about Yii 2.0 PHP framework.
-  
+
 - **[Yolo Mark](https://github.com/AlexeyAB/Yolo_mark)** by [Alexey Bochkovskiy](https://github.com/AlexeyAB)<br>
   GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
 - The place for your next great pet project!
-  
+
 ## But why?
 
 A lot of developers in Russia do not know about these projects and the fact that their authors are also Russian programmers. It warms your heart when you understand that a lot of highly popular and useful projects are made by “cold and gloomy” Russians.
@@ -836,11 +836,11 @@ A lot of developers in Russia do not know about these projects and the fact that
 
 > Is there a cool open source project mainly contributed by Russian developers?
 
-...triggered us to create this repo. 
+...triggered us to create this repo.
 
 The goal of the project is to show how modern software is a product of global culture. There are many different nations in your `package-lock.json`, or `Gemfile.lock`, or elsewhere. And we are highlighting the Russian part just because we know it better ([#2](https://github.com/igoradamenko/awesome-made-in-russia/issues/2)).
 
-## Contributing 
+## Contributing
 
 It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
 
