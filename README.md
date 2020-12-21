@@ -42,6 +42,9 @@
 - **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Full featured HTML framework for building iOS & Android apps.
   
+- **[fx](https://github.com/antonmedv/fx)** by [Anton Medvedev](https://github.com/antonmedv)<br>
+  Command-line tool and terminal JSON viewer
+
 - **[GoReplay](https://github.com/buger/goreplay)** by [Leonid Bugaev](https://github.com/buger)<br>
   An open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
   
@@ -169,6 +172,9 @@
 
 - **[DeepPavlov](https://github.com/deepmipt/DeepPavlov)** by [Neural Networks and Deep Learning lab, MIPT](https://github.com/deepmipt)<br>
   An open-source conversational AI library built on TensorFlow and Keras.
+
+- **[Deployer](https://github.com/deployphp/deployer)** by [Anton Medvedev](https://github.com/antonmedv)<br>
+  A deployment tool written in PHP with support for popular frameworks out of the box
 
 - **[EAIntroView](https://github.com/ealeksandrov/EAIntroView)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Highly customizable drop-in solution for introduction views.
@@ -478,6 +484,9 @@
 - **[Example microservice app](https://github.com/elgris/microservice-app-example)** by [Ivan Kirichenko](https://github.com/elgris)<br>
   An example of web application comprising of several components communicating to each other.
   
+- **[Expr](https://github.com/antonmedv/expr)** by [Anton Medvedev](https://github.com/antonmedv)<br>
+  Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing
+
 - **[Eye](https://github.com/kostya/eye)** by [Konstantin Makarchev](https://github.com/kostya)<br>
   Process monitoring tool. Inspired from Bluepill and God.
 
