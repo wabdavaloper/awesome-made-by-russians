@@ -561,6 +561,9 @@
 
 - **[Hakchi2](https://github.com/ClusterM/hakchi2)** by [Alexey Avdyukhin](https://github.com/ClusterM)<br>
   Tool that allows you to add more games to your NES/SNES Classic Mini.
+  
+- **[Hnswlib](https://github.com/nmslib/hnswlib)** by [Yury Malkov](https://github.com/yurymalkov)<br>
+  Header-only C++/python library for fast approximate nearest neighbors.
 
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
