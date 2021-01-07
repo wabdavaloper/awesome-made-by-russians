@@ -436,6 +436,9 @@
 - **[Checklist model](https://github.com/vitalets/checklist-model)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   AngularJS directive for list of checkboxes.
 
+- **[CircleMenu](https://github.com/ImangazalievM/CircleMenu)** by [Mahach Imangazaliev](https://github.com/ImangazalievM)<br>
+  CircleMenu is a simple, elegant menu with a circular layout.
+
 - **[ClickHouse Go](https://github.com/ClickHouse/clickhouse-go)** by [Kirill Shvakov](https://github.com/kshvakov)<br>
   Golang driver for ClickHouse.
 
