@@ -804,6 +804,9 @@
 
 - **[Visibility.js](https://github.com/ai/visibilityjs)** by [Andrey Sitnik](https://github.com/ai)<br>
   Wrapper for the Page Visibility API.
+  
+- **[V UI](https://github.com/vlang/ui)** by [Alexander Medvednikov](https://github.com/medvednikov)<br>
+  Cross-platform UI library written in V.
 
 - **[Wemake Django Template](https://github.com/wemake-services/wemake-django-template)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   Bleeding edge Django template focused on code quality and security.
