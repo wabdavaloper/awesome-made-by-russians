@@ -622,6 +622,9 @@
 - **[MTMR](https://github.com/Toxblh/MTMR)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) & [Daniel Apatin](https://github.com/ad)<br>
   The Touch Bar Customisation App for your MacBook Pro.
 
+- **[Multicore-TSNE](https://github.com/DmitryUlyanov/Multicore-TSNE)** by [Dmitry Ulyanov](https://github.com/DmitryUlyanov)<br>
+  Parallel t-SNE implementation with Python and Torch wrappers.
+
 - **[Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker/)** by [Andrey Smorodov](https://github.com/Smorodov), [Sergey Nuzhny](https://github.com/Nuzhny007/)<br>
   Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
 
