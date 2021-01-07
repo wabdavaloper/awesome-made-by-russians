@@ -666,6 +666,9 @@
 
 - **[PHPDaemon](https://github.com/kakserpom/phpdaemon)** by [Vasily Zorin](https://github.com/kakserpom)<br>
   Asynchronous server-side framework for network applications implemented in PHP using libevent.
+  
+- **[PhpStorm Stubs](https://github.com/JetBrains/phpstorm-stubs)** by [JetBrains](https://github.com/JetBrains)<br>
+  PHP runtime & extensions header files for PhpStorm.
 
 - **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   Resize image in browser with high quality and high speed.
