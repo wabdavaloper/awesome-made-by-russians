@@ -87,9 +87,6 @@
 - **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Redis Java client with features of In-Memory Data Grid.
 
-- **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
-  A better ORM for Go and `database/sql`.
-
 - **[SVGO](https://github.com/svg/svgo)** by [Lev Solntsev](https://github.com/GreLI) (main contributor)<br>
   Node.js-based tool for optimizing SVG vector graphics files.
 
@@ -690,6 +687,9 @@
 
 - **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Quick Look plugin for apps and provisioning profile files.
+
+- **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
+  A better ORM for Go and `database/sql`.
 
 - **[QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)** by [Artem Zinnatullin](https://github.com/artem-zinnatullin)<br>
   Android Development Culture.
