@@ -235,6 +235,9 @@
 
 - **[Hangfire](https://github.com/HangfireIO/Hangfire)** by [Sergey Odinokov](https://github.com/odinserj)<br>
   An easy way to perform background job processing in your .NET and .NET Core applications.
+  
+- **[Holder.js](https://github.com/imsky/holder)** by [Ivan Malopinsky](https://github.com/imsky)<br>
+  Image place holders rendered in browser using SVG.
 
 - **[HTMLMinifier](https://github.com/kangax/html-minifier)** by [Juriy Zaytsev](https://github.com/kangax)<br>
   JavaScript-based HTML compressor/minifier (with Node.js support).
