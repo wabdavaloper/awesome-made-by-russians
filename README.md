@@ -801,6 +801,9 @@
 
 - **[Tiny Raycaster](https://github.com/ssloy/tinyraycaster)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   486 lines of C++: old-school FPS in a weekend.
+  
+- **[tinyhttp](https://github.com/talentlessguy/tinyhttp)** by [Pavel Losev](https://github.com/talentlessguy)<br>
+  0-legacy, tiny & fast web framework as a replacement of Express.
 
 - **[Visibility.js](https://github.com/ai/visibilityjs)** by [Andrey Sitnik](https://github.com/ai)<br>
   Wrapper for the Page Visibility API.
@@ -840,8 +843,6 @@
 
 - **[Yolo Mark](https://github.com/AlexeyAB/Yolo_mark)** by [Alexey Bochkovskiy](https://github.com/AlexeyAB)<br>
   GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
-  
-- **[tinyhttp](https://github.com/talentlessguy/tinyhttp)** by [Pavel Losev](https://github.com/talentlessguy)
 
 - The place for your next great pet project!
 
