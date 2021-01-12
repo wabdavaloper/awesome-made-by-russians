@@ -840,6 +840,8 @@
 
 - **[Yolo Mark](https://github.com/AlexeyAB/Yolo_mark)** by [Alexey Bochkovskiy](https://github.com/AlexeyAB)<br>
   GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
+  
+- **[tinyhttp](https://github.com/talentlessguy/tinyhttp)** by [Pavel Losev](https://github.com/talentlessguy)
 
 - The place for your next great pet project!
 
