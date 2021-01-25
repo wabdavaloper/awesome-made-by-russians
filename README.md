@@ -583,9 +583,6 @@
 - **[jQuery.my](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
 
-- **[Konmik.com](https://github.com/konmik/konmik.github.io)** by [Konstantin Mikheev](https://github.com/konmik)<br>
-  Blog: Programming theory, Java, Android.
-
 - **[KxMenu](https://github.com/kolyvan/kxmenu)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A vertical popup menu for using in iOS applications.
 
