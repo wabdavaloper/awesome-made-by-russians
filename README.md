@@ -538,6 +538,9 @@
 - **[GitHub Trending Repos](https://github.com/vitalets/github-trending-repos)** by [Vitaliy Potapov](https://github.com/vitalets)<br>
   Track GitHub trending repositories in your favorite programming language by native GitHub notifications.
 
+- **[Git Status](https://github.com/romkatv/gitstatus)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
+  Git status for Bash and Zsh prompt.
+
 - **[Go Daemon](https://github.com/takama/daemon)** by [Igor Dolzhikov](https://github.com/takama)<br>
   A daemon package for use with Golang services.
 
