@@ -95,6 +95,9 @@
 
 - **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
   Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
+  
+- **[Tiny Renderer](https://github.com/ssloy/tinyrenderer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
+  A brief computer graphics / rendering course about OpenGL.
 
 - **[Uppy](https://github.com/transloadit/uppy)** by [Artur Paikin](https://github.com/arturi), the [Transloadit](https://github.com/transloadit) team & contributors<br>
   Modular file uploader for the browser. Resumable uploads, webcam, screen recording, image cropping, Google Drive, Instagram, etc.
@@ -148,6 +151,9 @@
 
 - **[CompatTable](https://github.com/kangax/compat-table)** by [Juriy Zaytsev](https://github.com/kangax)<br>
   ECMAScript 5/6/7 compatibility tables.
+  
+- **[Compose JetBrains](https://github.com/JetBrains/compose-jb)** by [JetBrains](https://github.com/JetBrains)<br>
+  Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
@@ -181,6 +187,9 @@
 
 - **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
   Easing Functions Cheat Sheet.
+  
+- **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias)<br>
+  An effective multi-store state manager for JavaScript apps.
 
 - **[ElFinder](https://github.com/Studio-42/elFinder)** by [Studio 42](https://github.com/Studio-42)<br>
   Open-source file manager for web, written in JavaScript using jQuery and jQuery UI.
@@ -359,9 +368,6 @@
 - **[Tiny RayTracer](https://github.com/ssloy/tinyraytracer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
   A brief computer graphics / rendering course about RayTracing.
 
-- **[Tiny Renderer](https://github.com/ssloy/tinyrenderer)** by [Dmitry Sokolov](https://github.com/ssloy)<br>
-  A brief computer graphics / rendering course about OpenGL.
-
 - **[Transitions Everywhere](https://github.com/andkulikov/Transitions-Everywhere)** by [Andrey Kulikov](https://github.com/andkulikov)<br>
   Set of extra Transitions on top of Jetpack Transitions Library.
 
@@ -454,9 +460,6 @@
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
 
-- **[Compose JetBrains](https://github.com/JetBrains/compose-jb)** by [JetBrains](https://github.com/JetBrains)<br>
-  Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-
 - **[CSSTree](https://github.com/csstree/csstree)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   A tool set for CSS: [fast](https://github.com/postcss/benchmark) detailed parser (CSS → AST), walker (AST traversal), generator (AST → CSS) and lexer (validation and matching) based on specs and browser implementations.
 
@@ -471,9 +474,6 @@
 
 - **[EasyJSON](https://github.com/mailru/easyjson)** by [Mail.Ru Group](https://github.com/mailru)<br>
   Fast JSON serializer for Go.
-
-- **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias)<br>
-  An effective multi-store state manager for JavaScript apps.
 
 - **[Elliptic](https://github.com/indutny/elliptic)** by [Fedor Indutny](https://github.com/indutny)<br>
   Fast Elliptic Curve Cryptography in plain JavaScript.
