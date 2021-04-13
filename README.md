@@ -697,6 +697,9 @@
 - **[QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)** by [Artem Zinnatullin](https://github.com/artem-zinnatullin)<br>
   Android Development Culture.
 
+- **[React Colorful](https://github.com/omgovich/react-colorful)** by [Vlad Shilov](https://github.com/omgovich)<br>
+  A tiny color picker component for React and Preact apps.
+
 - **[React Document Title](https://github.com/gaearon/react-document-title)** by [Dav Abramov](https://github.com/gaearon)<br>
   Declarative, nested, stateful, isomorphic document.title for React.
 
