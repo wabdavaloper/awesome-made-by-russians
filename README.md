@@ -757,6 +757,9 @@
 - **[Scalacaster](https://github.com/vkostyukov/scalacaster)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Purely Functional Algorithms and Data Structures in Scala.
 
+- **[Scalar Objects](https://github.com/nikic/scalar_objects)** by [Nikita Popov](https://github.com/nikic)<br>
+  Extension that adds support for method calls on primitive types in PHP.
+
 - **[Segmentation Models](https://github.com/qubvel/segmentation_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
 
