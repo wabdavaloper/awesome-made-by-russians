@@ -622,6 +622,9 @@
 - **[Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font)** by [Sergey Kupletsky](https://github.com/zavoloklom)<br>
   A full suite of official material design icons, with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop.
 
+- **[Monkberry](https://github.com/antonmedv/monkberry)** by [Anton Medvedev](https://github.com/antonmedv)<br>
+  JavaScript library for building web user interfaces.
+
 - **[Meteor Files](https://github.com/VeliovGroup/Meteor-Files)** by [VeliovGroup](https://github.com/VeliovGroup)<br>
   Upload files via DDP or HTTP to Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
 
