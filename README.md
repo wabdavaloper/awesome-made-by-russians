@@ -631,7 +631,7 @@
 - **[Multicore-TSNE](https://github.com/DmitryUlyanov/Multicore-TSNE)** by [Dmitry Ulyanov](https://github.com/DmitryUlyanov)<br>
   Parallel t-SNE implementation with Python and Torch wrappers.
 
-- **[Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker/)** by [Andrey Smorodov](https://github.com/Smorodov), [Sergey Nuzhny](https://github.com/Nuzhny007/)<br>
+- **[Multitarget Tracker](https://github.com/Smorodov/Multitarget-tracker/)** by [Andrey Smorodov](https://github.com/Smorodov), [Sergey Nuzhny](https://github.com/Nuzhny007/)<br>
   Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
 
 - **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
