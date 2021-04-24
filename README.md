@@ -727,6 +727,9 @@
 - **[React Side Effect](https://github.com/gaearon/react-side-effect)** by [Dav Abramov](https://github.com/gaearon)<br>
   Create components whose nested prop changes map to a global side effect.
 
+- **[Red](https://github.com/antonmedv/red)** by [Anton Medvedev](https://github.com/antonmedv)<br>
+  Terminal log analysis tools.
+
 - **[Redsocks](https://github.com/darkk/redsocks)** by [Leonid Evdokimov](https://github.com/darkk)<br>
   Transparent TCP-to-proxy redirector.
 
