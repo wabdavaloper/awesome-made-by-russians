@@ -699,6 +699,9 @@
 
 - **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Quick Look plugin for apps and provisioning profile files.
+  
+- **[Pulse](https://github.com/kean/Pulse)** by [Alexander Grebenyuk](https://github.com/kean)<br>
+  Logger and Network Inspector for Apple Platforms.
 
 - **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
   A better ORM for Go and `database/sql`.
