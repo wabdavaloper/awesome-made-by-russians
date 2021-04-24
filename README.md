@@ -697,6 +697,9 @@
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
   A tool to transform HTML/XML with JS plugins.
 
+- **[Practical DL](https://github.com/yandexdataschool/Practical_DL)** by [YSDA](https://github.com/yandexdataschool)<br>
+  DL course co-developed by YSDA, HSE and Skoltech.
+
 - **[Projector Docker](https://github.com/JetBrains/projector-docker)** by [JetBrains](https://github.com/JetBrains)<br>
   Run JetBrains IDEs remotely with Docker.
 
