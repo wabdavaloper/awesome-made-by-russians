@@ -33,6 +33,9 @@
 - **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock)<br>
   Modular standard library for JavaScript.
 
+- **[Cube.js](https://github.com/cube-js/cube.js)** by [Cube Dev](https://cube.dev)<br>
+  Open-Source Analytical API Platform.
+
 - **[Date FNS](https://github.com/date-fns/date-fns)** by [Sasha Koss](https://github.com/kossnocorp) & [Lesha Koss](https://github.com/leshakoss)<br>
   Modern JavaScript date utility library.
 
@@ -125,6 +128,9 @@
 - **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   A small indicator for macOS menubar.
 
+- **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography/)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
+  A curated list of cryptography resources and links.
+
 - **[Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)** by [Gregory Petukhov](https://github.com/lorien)<br>
   List of libraries, tools and APIs for web scraping and data processing.
 
@@ -158,9 +164,6 @@
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
 
-- **[Cube.js](https://github.com/cube-js/cube.js)** by [Cube Dev](https://cube.dev)<br>
-  Open-Source Analytical API Platform.
-
 - **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
   Powerful and efficient Computer Vision Annotation Tool.
 
@@ -187,7 +190,10 @@
 
 - **[Easings.net](https://github.com/ai/easings.net)** by [Andrey Sitnik](https://github.com/ai)<br>
   Easing Functions Cheat Sheet.
-  
+
+- **[EasyJSON](https://github.com/mailru/easyjson)** by [Mail.Ru Group](https://github.com/mailru)<br>
+  Fast JSON serializer for Go.
+
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias)<br>
   An effective multi-store state manager for JavaScript apps.
 
@@ -314,6 +320,9 @@
 - **[Mimesis](https://github.com/lk-geimfari/mimesis)** by [Isaak Uchakaev](https://github.com/lk-geimfari)<br>
   High-performance fake data generator for Python.
 
+- **[MTMR](https://github.com/Toxblh/MTMR)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) & [Daniel Apatin](https://github.com/ad)<br>
+  The Touch Bar Customisation App for your MacBook Pro.
+
 - **[Netty Socket.IO](https://github.com/mrniko/netty-socketio)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Socket.IO server implemented on Java. Realtime Java framework.
 
@@ -356,6 +365,12 @@
 - **[Sampler](https://github.com/sqshq/sampler)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
   Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
+- **[Segmentation Models](https://github.com/qubvel/segmentation_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
+  Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
+
+- **[Segmentation Models (PyTorch)](https://github.com/qubvel/segmentation_models.pytorch)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
+  Segmentation models with pretrained backbones. PyTorch.
+
 - **[Shower](https://github.com/shower/shower)** by [Vadim Makeev](https://github.com/pepelsbey)<br>
   HTML presentation engine.
 
@@ -373,6 +388,9 @@
 
 - **[Vuera](https://github.com/akxcv/vuera)** by [Alexander Komarov](https://github.com/akxcv)<br>
   Vue in React, React in Vue. Seamless integration of the two.
+
+- **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
+  A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
 
 - **[WS](https://github.com/gobwas/ws)** by [Sergey Kamardin](https://github.com/gobwas)<br>
   Tiny WebSocket library for Go.
@@ -411,9 +429,6 @@
 
 - **[Awesome Clojure](https://github.com/razum2um/awesome-clojure)** by [Vlad Bokov](https://github.com/razum2um)<br>
   A curated list of awesome Clojure libraries and resources.
-
-- **[Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography/)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
-  A curated list of cryptography resources and links.
 
 - **[Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)** by [Alexander Myshov](https://github.com/myshov)<br>
   A curated list of awesome resources for mobile web development.
@@ -477,9 +492,6 @@
 
 - **[DownloadButton](https://github.com/PavelKatunin/DownloadButton)** by [Pavel Katunin](https://github.com/PavelKatunin)<br>
   Customizable App Store style download button.
-
-- **[EasyJSON](https://github.com/mailru/easyjson)** by [Mail.Ru Group](https://github.com/mailru)<br>
-  Fast JSON serializer for Go.
 
 - **[Elliptic](https://github.com/indutny/elliptic)** by [Fedor Indutny](https://github.com/indutny)<br>
   Fast Elliptic Curve Cryptography in plain JavaScript.
@@ -634,9 +646,6 @@
 - **[MPS](https://github.com/JetBrains/MPS)** by [JetBrains](https://github.com/JetBrains)<br>
   JetBrains Meta Programming System.
 
-- **[MTMR](https://github.com/Toxblh/MTMR)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) & [Daniel Apatin](https://github.com/ad)<br>
-  The Touch Bar Customisation App for your MacBook Pro.
-
 - **[Multicore-TSNE](https://github.com/DmitryUlyanov/Multicore-TSNE)** by [Dmitry Ulyanov](https://github.com/DmitryUlyanov)<br>
   Parallel t-SNE implementation with Python and Torch wrappers.
 
@@ -766,12 +775,6 @@
 - **[Scalar Objects](https://github.com/nikic/scalar_objects)** by [Nikita Popov](https://github.com/nikic)<br>
   Extension that adds support for method calls on primitive types in PHP.
 
-- **[Segmentation Models](https://github.com/qubvel/segmentation_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
-  Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
-
-- **[Segmentation Models (PyTorch)](https://github.com/qubvel/segmentation_models.pytorch)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
-  Segmentation models with pretrained backbones. PyTorch.
-
 - **[Sitemap](https://github.com/ekalinin/sitemap.js)** by [Eugene Kalinin](https://github.com/ekalinin)<br>
   Sitemap-generating framework for Node.js.
 
@@ -858,9 +861,6 @@
 
 - **[When](https://github.com/olebedev/when)** by [Oleg Lebedev](https://github.com/olebedev)<br>
   A natural language date/time parser with pluggable rules.
-
-- **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
-  A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
 
 - **[Xabber](https://github.com/redsolution/xabber-android)** by [Redsolution](https://github.com/redsolution)<br>
   XMPP client for Android.
