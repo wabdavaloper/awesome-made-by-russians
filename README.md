@@ -490,6 +490,9 @@
 - **[DiDOM](https://github.com/Imangazaliev/DiDOM)** by [Muhammad Imangazaliev](https://github.com/Imangazaliev)<br>
   Simple and fast HTML parser.
 
+- **[Dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)** by [Mikhail Grachev](https://github.com/mgrachev)<br>
+  Lightning-fast linter for .env files. Written in Rust.
+
 - **[DownloadButton](https://github.com/PavelKatunin/DownloadButton)** by [Pavel Katunin](https://github.com/PavelKatunin)<br>
   Customizable App Store style download button.
 
