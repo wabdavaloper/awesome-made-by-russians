@@ -520,8 +520,11 @@
 - **[Eye](https://github.com/kostya/eye)** by [Konstantin Makarchev](https://github.com/kostya)<br>
   Process monitoring tool. Inspired from Bluepill and God.
 
+- **[Far Manager](https://github.com/FarGroup/FarManager)** by [Far Group](https://github.com/FarGroup)<br>
+  File and Archive Manager.
+
 - **[Fast Glob](https://github.com/mrmlnc/fast-glob)** by [Denis Malinochkin](https://github.com/mrmlnc)<br>
-  It's a very fast and efficient glob library for Node.js
+  It's a very fast and efficient glob library for Node.js.
 
 - **[FastNetMon](https://github.com/pavel-odintsov/fastnetmon)** by [Pavel Odintsov](https://github.com/pavel-odintsov)<br>
   Very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support.
