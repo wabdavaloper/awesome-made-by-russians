@@ -661,6 +661,9 @@
 - **[Multitarget Tracker](https://github.com/Smorodov/Multitarget-tracker/)** by [Andrey Smorodov](https://github.com/Smorodov), [Sergey Nuzhny](https://github.com/Nuzhny007/)<br>
   Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
 
+- **[Natural Language Processing](https://github.com/hse-aml/natural-language-processing)** by [HSE](https://github.com/hse-aml)<br>
+  Resources for "Natural Language Processing" Coursera course.
+
 - **[NGINX Unit](https://github.com/nginx/unit)** by [NGINX Inc.](https://github.com/nginx)<br>
   A lightweight dynamic open-source server for diverse web applications.
 
