@@ -402,6 +402,9 @@
 
 - **[AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
   Ad blocker with advanced privacy protection features.
+  
+- **[AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
+  AdGuard Content Blocking Filters.
 
 - **[Allure Framework](https://github.com/allure-framework/allure2)** by [Allure Framework team](https://github.com/allure-framework)<br>
   A flexible lightweight multi-language test reporting tool.
