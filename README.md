@@ -469,6 +469,9 @@
 - **[CircleMenu](https://github.com/ImangazalievM/CircleMenu)** by [Mahach Imangazaliev](https://github.com/ImangazalievM)<br>
   CircleMenu is a simple, elegant menu with a circular layout.
 
+- **[Classification Models](https://github.com/qubvel/classification_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
+  Classification models trained on ImageNet. Keras.
+
 - **[ClickHouse Go](https://github.com/ClickHouse/clickhouse-go)** by [Kirill Shvakov](https://github.com/kshvakov)<br>
   Golang driver for ClickHouse.
 
