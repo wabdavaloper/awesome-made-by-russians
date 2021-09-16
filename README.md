@@ -628,6 +628,9 @@
 - **[jQuery.my](https://github.com/ermouth/jQuery.my)** by [Dima Tabanin](https://github.com/ermouth)<br>
   A lightweight jQuery plugin for complex two-way data binding.
 
+- **[Jodit](https://github.com/xdan/jodit)** by [Valeriy Chupurnov](https://github.com/xdan)<br>
+  A WYSIWYG editor written in pure TypeScript without the use of additional libraries.
+
 - **[Kotlin Website](https://github.com/JetBrains/kotlin-web-site)** by [JetBrains](https://github.com/JetBrains)<br>
   The Kotlin programming language website.
 
