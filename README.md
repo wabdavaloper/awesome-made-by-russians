@@ -616,6 +616,9 @@
 - **[Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider)** by [Denis Ineshin](https://github.com/IonDen)<br>
   jQuery only range slider.
 
+- **[Iter](https://github.com/nikic/iter)** by [Nikita Popov](https://github.com/nikic)<br>
+  Iteration primitives using generators.
+
 - **[jQuery.appear](https://github.com/morr/jquery.appear)** by [Andrey Sidorov](https://github.com/morr)<br>
   jQuery plugin for tracking element's appearance in browser viewport.
 
