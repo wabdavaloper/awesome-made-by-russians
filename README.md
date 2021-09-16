@@ -669,6 +669,9 @@
 
 - **[MPS](https://github.com/JetBrains/MPS)** by [JetBrains](https://github.com/JetBrains)<br>
   JetBrains Meta Programming System.
+  
+- **[Mrm](https://github.com/sapegin/mrm)** by [Artem Sapegin](https://github.com/sapegin)<br>
+  Codemods for your project config files.
 
 - **[Multicore-TSNE](https://github.com/DmitryUlyanov/Multicore-TSNE)** by [Dmitry Ulyanov](https://github.com/DmitryUlyanov)<br>
   Parallel t-SNE implementation with Python and Torch wrappers.
