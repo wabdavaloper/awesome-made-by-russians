@@ -75,6 +75,9 @@
 - **[PHP Parser](https://github.com/nikic/PHP-Parser)** by [Nikita Popov](https://github.com/nikic)<br>
   A PHP parser written in PHP.
 
+- **[Piggy Metrics](https://github.com/sqshq/piggymetrics)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
+  Microservice Architecture with Spring Boot, Spring Cloud and Docker.
+
 - **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)<br>
   Tool for transforming styles with JS plugins.
 
@@ -86,6 +89,9 @@
 
 - **[React Native macOS](https://github.com/ptmt/react-native-macos)** by [Dima Loktev](https://github.com/ptmt)<br>
   React Native for macOS is an experimental fork for writing desktop apps using Cocoa.
+
+- **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
+  Isolated React component development environment with a living style guide.
 
 - **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Redis Java client with features of In-Memory Data Grid.
@@ -196,6 +202,9 @@
 
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias)<br>
   An effective multi-store state manager for JavaScript apps.
+
+- **[Einops](https://github.com/arogozhnikov/einops)** by [Alex Rogozhnikov](https://github.com/arogozhnikov)<br>
+  Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others).
 
 - **[ElFinder](https://github.com/Studio-42/elFinder)** by [Studio 42](https://github.com/Studio-42)<br>
   Open-source file manager for web, written in JavaScript using jQuery and jQuery UI.
@@ -344,11 +353,11 @@
 - **[Pako](https://github.com/nodeca/pako)** by [Vitaly Puzrin](https://github.com/puzrin) & [Andrei Tupitcyn](https://github.com/andr83)<br>
   High speed zlib port to JavaScript, works in browser & Node.js.
 
-- **[Piggy Metrics](https://github.com/sqshq/piggymetrics)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
-  Microservice Architecture with Spring Boot, Spring Cloud and Docker.
-
 - **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [YSDA](https://github.com/yandexdataschool) & HSE<br>
   A course in reinforcement learning in the wild.
+  
+- **[Pulse](https://github.com/kean/Pulse)** by [Alexander Grebenyuk](https://github.com/kean)<br>
+  Logger and Network Inspector for Apple Platforms.
 
 - **[Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)** by [Alex Rogozhnikov](https://github.com/arogozhnikov)<br>
   A short guide on features of Python 3 with examples.
@@ -358,9 +367,6 @@
 
 - **[React Konva](https://github.com/konvajs/react-konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
-
-- **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
-  Isolated React component development environment with a living style guide.
 
 - **[Sampler](https://github.com/sqshq/sampler)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
   Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -507,9 +513,6 @@
 
 - **[EfficientNet Keras](https://github.com/qubvel/efficientnet)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Implementation of EfficientNet model. Keras and TensorFlow Keras.
-
-- **[Einops](https://github.com/arogozhnikov/einops)** by [Alex Rogozhnikov](https://github.com/arogozhnikov)<br>
-  Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others).
 
 - **[Everpad](https://github.com/nvbn/everpad)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Evernote client well integrated with Linux desktop.
@@ -750,9 +753,6 @@
 
 - **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Quick Look plugin for apps and provisioning profile files.
-  
-- **[Pulse](https://github.com/kean/Pulse)** by [Alexander Grebenyuk](https://github.com/kean)<br>
-  Logger and Network Inspector for Apple Platforms.
 
 - **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
   A better ORM for Go and `database/sql`.
