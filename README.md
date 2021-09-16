@@ -583,6 +583,9 @@
 - **[Grab](https://github.com/lorien/grab)** by [Gregory Petukhov](https://github.com/lorien)<br>
   Web Scraping Framework.
 
+- **[Gradle IntelliJ Plugin](https://github.com/JetBrains/gradle-intellij-plugin)** by [JetBrains](https://github.com/JetBrains)<br>
+  Gradle plugin for building plugins for IntelliJ-based IDEs.
+
 - **[Grafana Zabbix](https://github.com/alexanderzobnin/grafana-zabbix)** by [Alexander Zobnin](https://github.com/alexanderzobnin)<br>
   Zabbix plugin for Grafana dashboard.
 
@@ -597,6 +600,9 @@
 
 - **[HTML5 History API](https://github.com/devote/HTML5-History-API)** by [Dmitrii Pakhtinov](https://github.com/devote)<br>
   HTML5 History API expansion for browsers not supporting pushState, replaceState.
+
+- **[IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)** by [JetBrains](https://github.com/JetBrains)<br>
+  Template repository for creating plugins for IntelliJ Platform.
 
 - **[IntelliJ Plugins](https://github.com/JetBrains/intellij-plugins)** by [JetBrains](https://github.com/JetBrains)<br>
   Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform.
