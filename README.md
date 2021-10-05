@@ -754,14 +754,11 @@
 - **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Quick Look plugin for apps and provisioning profile files.
 
-- **[React Render Tracker](https://github.com/lahmatiy/react-render-tracker)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
-  A tool to discover performance issues related to unintentional re-renders and unmounts.
-
-- **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
-  A better ORM for Go and `database/sql`.
-
 - **[QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)** by [Artem Zinnatullin](https://github.com/artem-zinnatullin)<br>
   Android Development Culture.
+
+- **[React Render Tracker](https://github.com/lahmatiy/react-render-tracker)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
+  A tool to discover performance issues related to unintentional re-renders and unmounts.
 
 - **[React Colorful](https://github.com/omgovich/react-colorful)** by [Vlad Shilov](https://github.com/omgovich)<br>
   A tiny color picker component for React and Preact apps.
@@ -792,6 +789,9 @@
 
 - **[Redsocks](https://github.com/darkk/redsocks)** by [Leonid Evdokimov](https://github.com/darkk)<br>
   Transparent TCP-to-proxy redirector.
+
+- **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
+  A better ORM for Go and `database/sql`.
 
 - **[Returns](https://github.com/dry-python/returns)** by [Dry Python](https://github.com/dry-python)<br>
   Make your Python functions return something meaningful, typed, and safe.
