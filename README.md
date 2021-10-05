@@ -58,7 +58,7 @@
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
 
 - **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
-  Modern JavaScript Tutorial in English. There're also highly popular [Chinese](https://github.com/javascript-tutorial/zh.javascript.info) and [Russian](https://github.com/javascript-tutorial/ru.javascript.info) versions.
+  Modern JavaScript Tutorial in English. There are also highly popular [Chinese](https://github.com/javascript-tutorial/zh.javascript.info), [Korean](https://github.com/javascript-tutorial/ko.javascript.info) and [Russian](https://github.com/javascript-tutorial/ru.javascript.info) versions.
 
 - **[Markdown it](https://github.com/markdown-it/markdown-it)** by [Vitaly Puzrin](https://github.com/puzrin) & [Alex Kocharin](https://github.com/rlidwka)<br>
   Markdown parser done right. Fast and easy to extend.
