@@ -754,6 +754,9 @@
 - **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Quick Look plugin for apps and provisioning profile files.
 
+- **[React Render Tracker](https://github.com/lahmatiy/react-render-tracker)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
+  A tool to discover performance issues related to unintentional re-renders and unmounts.
+
 - **[Reform](https://github.com/go-reform/reform)** by [Alexey Palazhchenko](https://github.com/AlekSi)<br>
   A better ORM for Go and `database/sql`.
 
