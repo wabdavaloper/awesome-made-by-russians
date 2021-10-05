@@ -757,9 +757,6 @@
 - **[QualityMatters](https://github.com/artem-zinnatullin/qualitymatters)** by [Artem Zinnatullin](https://github.com/artem-zinnatullin)<br>
   Android Development Culture.
 
-- **[React Render Tracker](https://github.com/lahmatiy/react-render-tracker)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
-  A tool to discover performance issues related to unintentional re-renders and unmounts.
-
 - **[React Colorful](https://github.com/omgovich/react-colorful)** by [Vlad Shilov](https://github.com/omgovich)<br>
   A tiny color picker component for React and Preact apps.
 
@@ -780,6 +777,9 @@
 
 - **[React Native Looped Carousel](https://github.com/phil-r/react-native-looped-carousel)** by [Phil Rukin](https://github.com/phil-r)<br>
   Full-fledged “infinite” carousel for your next React Native project. Supports iOS and Android.
+
+- **[React Render Tracker](https://github.com/lahmatiy/react-render-tracker)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
+  A tool to discover performance issues related to unintentional re-renders and unmounts.
 
 - **[React Side Effect](https://github.com/gaearon/react-side-effect)** by [Dav Abramov](https://github.com/gaearon)<br>
   Create components whose nested prop changes map to a global side effect.
