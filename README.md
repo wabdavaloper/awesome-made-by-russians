@@ -897,6 +897,9 @@
   
 - **[V UI](https://github.com/vlang/ui)** by [Alexander Medvednikov](https://github.com/medvednikov)<br>
   Cross-platform UI library written in V.
+  
+- **[Ved](https://github.com/vlang/ved)** by [Alexander Medvednikov](https://github.com/medvednikov)<br>
+  Small and fast text editor written in V.
 
 - **[Wemake Django Template](https://github.com/wemake-services/wemake-django-template)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   Bleeding edge Django template focused on code quality and security.
