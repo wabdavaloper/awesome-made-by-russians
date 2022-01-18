@@ -501,6 +501,9 @@
 
 - **[DiDOM](https://github.com/Imangazaliev/DiDOM)** by [Muhammad Imangazaliev](https://github.com/Imangazaliev)<br>
   Simple and fast HTML parser.
+  
+- **[DNS Proxy](https://github.com/AdguardTeam/dnsproxy)** by [Adguard Team](https://github.com/AdguardTeam)<br>
+  Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support.
 
 - **[Dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)** by [Mikhail Grachev](https://github.com/mgrachev)<br>
   Lightning-fast linter for .env files. Written in Rust.
