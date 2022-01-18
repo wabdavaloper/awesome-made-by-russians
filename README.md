@@ -759,6 +759,9 @@
 
 - **[Projector Docker](https://github.com/JetBrains/projector-docker)** by [JetBrains](https://github.com/JetBrains)<br>
   Run JetBrains IDEs remotely with Docker.
+  
+- **[Projector Server](https://github.com/JetBrains/projector-server)** by [JetBrains](https://github.com/JetBrains)<br>
+  Server-side library for running Swing applications remotely.
 
 - **[ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)** by [Evgeny Aleksandrov](https://github.com/ealeksandrov)<br>
   Quick Look plugin for apps and provisioning profile files.
