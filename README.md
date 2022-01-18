@@ -432,6 +432,9 @@
 
 - **[ARTetris](https://github.com/exyte/ARTetris)** by [Exyte](https://github.com/exyte)<br>
   Augmented Reality Tetris made with ARKit and SceneKit.
+  
+- **[Atropos](https://github.com/nolimits4web/atropos)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
+  Stunning touch-friendly 3D parallax hover effects.
 
 - **[Autobind Decorator](https://github.com/andreypopp/autobind-decorator)** by [Andrey Popp](https://github.com/andreypopp)<br>
   Decorator to automatically bind methods to class instances.
