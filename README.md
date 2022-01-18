@@ -490,6 +490,9 @@
 - **[Cocaine](https://github.com/cocaine/cocaine-core)** by [Andrey Sibirev](https://github.com/kobolog)<br>
   An open platform to build your own PaaS clouds.
 
+- **[CodeJar](https://github.com/antonmedv/codejar)** by [Anton Medvedev](https://github.com/antonmedv)<br>
+  An embeddable code editor for the browser.
+
 - **[Common Words](https://github.com/yoksel/common-words)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
   Common words for CSS selectors.
 
