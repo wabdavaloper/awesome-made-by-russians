@@ -21,11 +21,17 @@
 
 ## > 10k ★
 
+- **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
+  Network-wide ads & trackers blocking DNS server.
+
 - **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)<br>
   PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
 
 - **[Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)** by [Alexander Bayandin](https://github.com/bayandin)<br>
   A curated list of awesome awesomeness.
+
+- **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)<br>
+  The config to share target browsers and Node.js versions between different front-end tools.
 
 - **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** by [Yandex](https://github.com/yandex)<br>
   A free analytics DBMS for big data.
@@ -50,6 +56,9 @@
 
 - **[GoReplay](https://github.com/buger/goreplay)** by [Leonid Bugaev](https://github.com/buger)<br>
   An open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
+
+- **[Gruvbox](https://github.com/morhetz/gruvbox)** by [Pavel Pertsev](https://github.com/morhetz)<br>
+  Retro groove color scheme for Vim and [other text editors](https://github.com/morhetz/gruvbox-contrib).
 
 - **[Highlight.js](https://github.com/highlightjs/highlight.js)** by [Ivan Sagalaev](https://github.com/isagalaev)<br>
   JavaScript syntax highlighter.
@@ -122,9 +131,6 @@
 
 ## > 3k ★
 
-- **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
-  Network-wide ads & trackers blocking DNS server.
-
 - **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://github.com/albumentations-team)<br>
   Fast image augmentation library and easy to use wrapper around other libraries.
 
@@ -145,9 +151,6 @@
 
 - **[Bowser](https://github.com/lancedikson/bowser)** by [Denis Demchenko](https://github.com/lancedikson)<br>
   A small, fast and rich-API browser/platform/engine detector for both browser and node.
-
-- **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)<br>
-  The config to share target browsers and Node.js versions between different front-end tools.
 
 - **[CatBoost](https://github.com/catboost/catboost)** by [Yandex](https://github.com/yandex)<br>
   A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other ML tasks.
@@ -254,9 +257,6 @@
 - **[Google Spreadsheets Python API v4](https://github.com/burnash/gspread)** by [Anton Burnashev](https://github.com/burnash)<br>
   Simple interface for working with Google Sheets.
 
-- **[Gruvbox](https://github.com/morhetz/gruvbox)** by [Pavel Pertsev](https://github.com/morhetz)<br>
-  Retro groove color scheme for Vim and [other text editors](https://github.com/morhetz/gruvbox-contrib).
-
 - **[Hangfire](https://github.com/HangfireIO/Hangfire)** by [Sergey Odinokov](https://github.com/odinserj)<br>
   An easy way to perform background job processing in your .NET and .NET Core applications.
   
@@ -305,6 +305,9 @@
 - **[Kotlin Native](https://github.com/JetBrains/kotlin-native)** by [JetBrains](https://github.com/JetBrains)<br>
   Kotlin/Native infrastructure.
 
+- **[Laravel Nested Set](https://github.com/lazychaser/laravel-nestedset)** by [Alexander Kalnoy](https://github.com/lazychaser)<br>
+  Effective tree structures in Laravel 4-5.
+
 - **[LibreTaxi](https://github.com/ro31337/libretaxi)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Uber proof-of-concept that works though Telegram.
 
@@ -347,11 +350,17 @@
 - **[Offline Plugin](https://github.com/NekR/offline-plugin)** by [Arthur Stolyar](https://github.com/NekR)<br>
   Offline plugin (ServiceWorker, AppCache) for Webpack.
 
+- **[OpenLara](https://github.com/XProger/OpenLara)** by [Timur Gagiev](https://github.com/XProger)<br>
+  Classic Tomb Raider open-source engine.
+
 - **[Overreacted.io](https://github.com/gaearon/overreacted.io)** by [Dav Abramov](https://github.com/gaearon)<br>
   Personal blog by Dan Abramov.
 
 - **[Pako](https://github.com/nodeca/pako)** by [Vitaly Puzrin](https://github.com/puzrin) & [Andrei Tupitcyn](https://github.com/andr83)<br>
   High speed zlib port to JavaScript, works in browser & Node.js.
+
+- **[Pb](https://github.com/cheggaaa/pb)** by [Sergey Cherepanov](https://github.com/cheggaaa)<br>
+  Console progress bar for Golang.
 
 - **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [YSDA](https://github.com/yandexdataschool) & HSE<br>
   A course in reinforcement learning in the wild.
@@ -367,6 +376,9 @@
 
 - **[React Konva](https://github.com/konvajs/react-konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+
+- **[Ru Test Assignments](https://github.com/Hexlet/ru-test-assignments)** by [Hexlet](https://github.com/Hexlet)<br>
+  Test Assignments of Russian IT companies.
 
 - **[Sampler](https://github.com/sqshq/sampler)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
   Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -655,9 +667,6 @@
 - **[KxMovie](https://github.com/kolyvan/kxmovie)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A movie player for iOS using ffmpeg.
 
-- **[Laravel Nested Set](https://github.com/lazychaser/laravel-nestedset)** by [Alexander Kalnoy](https://github.com/lazychaser)<br>
-  Effective tree structures in Laravel 4-5.
-
 - **[Laravel Orchid](https://github.com/orchidsoftware/platform)** by [Alexandr Chernyaev](https://github.com/tabuna)<br>
   Platform for back-office applications, admin panel or CMS your Laravel app.
 
@@ -727,14 +736,8 @@
 - **[Odyssey](https://github.com/yandex/odyssey)** by [Yandex](https://github.com/yandex)<br>
   Scalable PostgreSQL connection pooler.
 
-- **[OpenLara](https://github.com/XProger/OpenLara)** by [Timur Gagiev](https://github.com/XProger)<br>
-  Classic Tomb Raider open-source engine.
-
 - **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Process manager for Procfile-based applications and tmux.
-
-- **[Pb](https://github.com/cheggaaa/pb)** by [Sergey Cherepanov](https://github.com/cheggaaa)<br>
-  Console progress bar for Golang.
 
 - **[PHPDaemon](https://github.com/kakserpom/phpdaemon)** by [Vasily Zorin](https://github.com/kakserpom)<br>
   Asynchronous server-side framework for network applications implemented in PHP using libevent.
@@ -819,9 +822,6 @@
 
 - **[Ring UI](https://github.com/JetBrains/ring-ui)** by [JetBrains](https://github.com/JetBrains)<br>
   A collection of JetBrains Web UI components.
-
-- **[Ru Test Assignments](https://github.com/Hexlet/ru-test-assignments)** by [Hexlet](https://github.com/Hexlet)<br>
-  Test Assignments of Russian IT companies.
 
 - **[Rum](https://github.com/tonsky/rum)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript.
