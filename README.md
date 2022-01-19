@@ -444,6 +444,9 @@
 
 - **[Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)** by [Alexander Myshov](https://github.com/myshov)<br>
   A curated list of awesome resources for mobile web development.
+  
+- **[Awesome V](https://github.com/vlang/awesome-v)** by [V Community](https://github.com/vlang)<br>
+  A curated list of awesome V frameworks, libraries, software and resources.
 
 - **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
   Simple CSS library for semantic HTML markup.
