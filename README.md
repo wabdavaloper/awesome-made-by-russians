@@ -958,7 +958,7 @@ It's hard to calculate project popularity so we use stars as a measurement. It's
 If you want to add project to this list, please, make sure that:
 
 1. The project was created by the developer born in Russia or self-indicate themself as Russian.
-2. The project has more that 1000 stars on GitHub.
+2. The project has more than 1000 stars on GitHub.
 
 If they do, feel free to make a PR!
 
