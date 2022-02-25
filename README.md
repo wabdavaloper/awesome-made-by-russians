@@ -454,6 +454,9 @@
 - **[Awesome Clojure](https://github.com/razum2um/awesome-clojure)** by [Vlad Bokov](https://github.com/razum2um)<br>
   A curated list of awesome Clojure libraries and resources.
 
+- **[Awesome Made By Russians](https://github.com/igoradamenko/awesome-made-by-russians/)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
+  Recursion.
+
 - **[Awesome Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)** by [Alexander Myshov](https://github.com/myshov)<br>
   A curated list of awesome resources for mobile web development.
   
