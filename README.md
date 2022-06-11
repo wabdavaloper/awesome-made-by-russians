@@ -677,6 +677,9 @@
 
 - **[Kotlin Website](https://github.com/JetBrains/kotlin-web-site)** by [JetBrains](https://github.com/JetBrains)<br>
   The Kotlin programming language website.
+  
+- **[Kotlin Wrappers](https://github.com/JetBrains/kotlin-wrappers)** by [JetBrains](https://github.com/JetBrains)<br>
+  Kotlin wrappers for popular JavaScript libraries.
 
 - **[KxMenu](https://github.com/kolyvan/kxmenu)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A vertical popup menu for using in iOS applications.
