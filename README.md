@@ -576,6 +576,9 @@
 - **[Finch](https://github.com/finagle/finch)** by [Vladimir Kostyukov](https://github.com/vkostyukov)<br>
   Scala combinator library for building Finagle HTTP services.
 
+- **[Flexbox cheatsheet](https://github.com/yoksel/flex-cheatsheet)** by [Yulia Bukhvalova](https://github.com/yoksel)<br>
+  Flexbox cheatsheet.
+
 - **[Flux React Router Example](https://github.com/gaearon/flux-react-router-example)** by [Dav Abramov](https://github.com/gaearon)<br>
   A sample app showcasing Flux with React Router.
 
