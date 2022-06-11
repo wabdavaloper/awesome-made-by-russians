@@ -425,6 +425,9 @@
   
 - **[AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
   AdGuard Content Blocking Filters.
+  
+- **[AdGuard For iOS](https://github.com/AdguardTeam/AdguardForiOS)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
+  The most advanced ad blocker for iOS.
 
 - **[Allure Framework](https://github.com/allure-framework/allure2)** by [Allure Framework team](https://github.com/allure-framework)<br>
   A flexible lightweight multi-language test reporting tool.
