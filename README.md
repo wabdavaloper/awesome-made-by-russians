@@ -1,6 +1,6 @@
 ![Stop the war](./notice.png)
 
-# 🇷🇺 Awesome Made by Russians [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Made by Russians [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curating the best projects that were made and mainly contributed by Russian developers
 
