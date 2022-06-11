@@ -18,6 +18,9 @@
 - **[Redux](https://github.com/reduxjs/redux)** by [Dan Abramov](https://github.com/gaearon)<br>
   Predictable state container for JavaScript apps.
 
+- **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
+  Most modern mobile touch slider with hardware accelerated transitions.
+
 - **[The Fuck](https://github.com/nvbn/thefuck)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Magnificent app which corrects your previous console command.
 
@@ -25,6 +28,9 @@
 
 - **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
   Network-wide ads & trackers blocking DNS server.
+
+- **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://github.com/albumentations-team)<br>
+  Fast image augmentation library and easy to use wrapper around other libraries.
 
 - **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)<br>
   PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
@@ -56,6 +62,9 @@
 - **[fx](https://github.com/antonmedv/fx)** by [Anton Medvedev](https://github.com/antonmedv)<br>
   Command-line tool and terminal JSON viewer.
 
+- **[Golang CI Lint](https://github.com/golangci/golangci-lint)** by [Denis Isaev](https://github.com/jirfag)<br>
+  Fast linters runner for Go.
+
 - **[GoReplay](https://github.com/buger/goreplay)** by [Leonid Bugaev](https://github.com/buger)<br>
   An open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
 
@@ -70,6 +79,9 @@
 
 - **[JavaScript Info](https://github.com/javascript-tutorial/en.javascript.info)** by [Ilya Kantor](https://github.com/iliakan)<br>
   Modern JavaScript Tutorial in English. There are also highly popular [Chinese](https://github.com/javascript-tutorial/zh.javascript.info), [Korean](https://github.com/javascript-tutorial/ko.javascript.info) and [Russian](https://github.com/javascript-tutorial/ru.javascript.info) versions.
+
+- **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
+  Tool for running linters on Git staged files.
 
 - **[Markdown it](https://github.com/markdown-it/markdown-it)** by [Vitaly Puzrin](https://github.com/puzrin) & [Alex Kocharin](https://github.com/rlidwka)<br>
   Markdown parser done right. Fast and easy to extend.
@@ -107,11 +119,11 @@
 - **[Redisson](https://github.com/redisson/redisson)** by [Nikita Koksharov](https://github.com/mrniko)<br>
   Redis Java client with features of In-Memory Data Grid.
 
+- **[Sampler](https://github.com/sqshq/sampler)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
+  Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+
 - **[SVGO](https://github.com/svg/svgo)** by [Lev Solntsev](https://github.com/GreLI) (main contributor)<br>
   Node.js-based tool for optimizing SVG vector graphics files.
-
-- **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
-  Most modern mobile touch slider with hardware accelerated transitions.
 
 - **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
   Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
@@ -132,9 +144,6 @@
   Neural Networks for Object Detection (Windows and Linux version of Darknet).
 
 ## > 3k ★
-
-- **[Albumentations](https://github.com/albumentations-team/albumentations)** by [Albumentations Team](https://github.com/albumentations-team)<br>
-  Fast image augmentation library and easy to use wrapper around other libraries.
 
 - **[Angular File Upload](https://github.com/nervgh/angular-file-upload)** by [Alex Zaytsev](https://github.com/nervgh)<br>
   A module for the AngularJS framework. Supports drag-n-drop upload, upload progress, validation filters and a file upload queue.
@@ -250,8 +259,8 @@
 - **[Go UUID](https://github.com/satori/go.uuid)** by [Maxim Bublis](https://github.com/satori)<br>
   UUID package for Go.
 
-- **[Golang CI Lint](https://github.com/golangci/golangci-lint)** by [Denis Isaev](https://github.com/jirfag)<br>
-  Fast linters runner for Go.
+- **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
+  Your Rails variables in your JS.
 
 - **[Google Map React](https://github.com/google-map-react/google-map-react)** by [Ivan Starkov](https://github.com/istarkov)<br>
   React library for Google Maps that allows rendering components as markers.
@@ -310,11 +319,11 @@
 - **[Laravel Nested Set](https://github.com/lazychaser/laravel-nestedset)** by [Alexander Kalnoy](https://github.com/lazychaser)<br>
   Effective tree structures in Laravel 4-5.
 
+- **[Laravel Orchid](https://github.com/orchidsoftware/platform)** by [Alexandr Chernyaev](https://github.com/tabuna)<br>
+  Platform for back-office applications, admin panel or CMS your Laravel app.
+
 - **[LibreTaxi](https://github.com/ro31337/libretaxi)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Uber proof-of-concept that works though Telegram.
-
-- **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
-  Tool for running linters on Git staged files.
 
 - **[Linux Deploy](https://github.com/meefik/linuxdeploy)** by [Anton Skshidlevsky](https://github.com/meefik)<br>
   Install and run GNU/Linux on Android.
@@ -327,9 +336,6 @@
 
 - **[MLCourse.ai](https://github.com/Yorko/mlcourse.ai)** by [Yury Kashnitsky](https://github.com/Yorko) (main contributor)<br>
   Open Machine Learning Course.
-
-- **[Redux Logger](https://github.com/LogRocket/redux-logger)** by [Evgeny Rodionov](https://github.com/evgenyrodionov)<br>
-  Logger for Redux.
 
 - **[Macaw](https://github.com/exyte/Macaw)** by [Exyte](https://github.com/exyte)<br>
   Powerful and easy-to-use vector graphics Swift library with SVG support
@@ -367,6 +373,9 @@
 - **[Pb](https://github.com/cheggaaa/pb)** by [Sergey Cherepanov](https://github.com/cheggaaa)<br>
   Console progress bar for Golang.
 
+- **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
+  Resize image in browser with high quality and high speed.
+
 - **[Practical RL](https://github.com/yandexdataschool/Practical_RL)** by [YSDA](https://github.com/yandexdataschool) & HSE<br>
   A course in reinforcement learning in the wild.
   
@@ -382,11 +391,11 @@
 - **[React Konva](https://github.com/konvajs/react-konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 
+- **[Redux Logger](https://github.com/LogRocket/redux-logger)** by [Evgeny Rodionov](https://github.com/evgenyrodionov)<br>
+  Logger for Redux.
+
 - **[Ru Test Assignments](https://github.com/Hexlet/ru-test-assignments)** by [Hexlet](https://github.com/Hexlet)<br>
   Test Assignments of Russian IT companies.
-
-- **[Sampler](https://github.com/sqshq/sampler)** by [Alexander Lukyanchikov](https://github.com/sqshq)<br>
-  Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
 - **[Segmentation Models](https://github.com/qubvel/segmentation_models)** by [Pavel Yakubovskiy](https://github.com/qubvel)<br>
   Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
@@ -411,6 +420,9 @@
 
 - **[Vuera](https://github.com/akxcv/vuera)** by [Alexander Komarov](https://github.com/akxcv)<br>
   Vue in React, React in Vue. Seamless integration of the two.
+
+- **[Werf](https://github.com/werf/werf)** by [Flant](https://github.com/flant)<br>
+  GitOps CI/CD tool, for containers and Kubernetes.
 
 - **[Wouter](https://github.com/molefrog/wouter)** by [Alexey Taktarov](https://github.com/molefrog)<br>
   A minimalist-friendly ~1.3KB routing for React and Preact. Nothing else but HOOKS.
@@ -627,9 +639,6 @@
 - **[Go! AOP PHP](https://github.com/goaop/framework)** by [Alexander Lisachenko](https://github.com/lisachenko)<br>
   Modern aspect-oriented framework for the new level of software development.
 
-- **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
-  Your Rails variables in your JS.
-
 - **[Grab](https://github.com/lorien/grab)** by [Gregory Petukhov](https://github.com/lorien)<br>
   Web Scraping Framework.
 
@@ -692,9 +701,6 @@
 
 - **[KxMovie](https://github.com/kolyvan/kxmovie)** by [Konstantin Boukreev](https://github.com/kolyvan)<br>
   A movie player for iOS using ffmpeg.
-
-- **[Laravel Orchid](https://github.com/orchidsoftware/platform)** by [Alexandr Chernyaev](https://github.com/tabuna)<br>
-  Platform for back-office applications, admin panel or CMS your Laravel app.
 
 - **[LazyList](https://github.com/thest1/LazyList)** by [Fedor Vlasov](https://github.com/thest1)<br>
   Lazy load of images in Android.
@@ -770,9 +776,6 @@
   
 - **[PhpStorm Stubs](https://github.com/JetBrains/phpstorm-stubs)** by [JetBrains](https://github.com/JetBrains)<br>
   PHP runtime & extensions header files for PhpStorm.
-
-- **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
-  Resize image in browser with high quality and high speed.
   
 - **[Playbook](https://github.com/avito-tech/playbook)** by [Avito.Tech](https://github.com/avito-tech)<br>
   AvitoTech team playbook.
@@ -941,9 +944,6 @@
 
 - **[Wemake Python Slyleguide](https://github.com/wemake-services/wemake-python-styleguide)** by [Nikita Sobolev](https://github.com/sobolevn)<br>
   The strictest and most opinionated Python linter ever.
-
-- **[Werf](https://github.com/werf/werf)** by [Flant](https://github.com/flant)<br>
-  GitOps CI/CD tool, for containers and Kubernetes.
 
 - **[WebGradients](https://github.com/itmeo/webgradients)** by [Itmeo](https://github.com/itmeo)<br>
   A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
