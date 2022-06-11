@@ -321,6 +321,9 @@
 
 - **[Machine Learning Algorithms](https://github.com/rushter/MLAlgorithms)** by [Artem Golubin](https://github.com/rushter)<br>
   Minimal and clean examples of machine learning algorithms implementations.
+  
+- **[MarkovJunior](https://github.com/mxgmn/MarkovJunior)** by [Maxim Gumin](https://github.com/mxgmn)<br>
+  Probabilistic PL based on pattern matching and constraint propagation, 148 examples.
 
 - **[MLCourse.ai](https://github.com/Yorko/mlcourse.ai)** by [Yury Kashnitsky](https://github.com/Yorko) (main contributor)<br>
   Open Machine Learning Course.
