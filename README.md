@@ -606,6 +606,9 @@
 - **[Git Status](https://github.com/romkatv/gitstatus)** by [Roman Perepelitsa](https://github.com/romkatv)<br>
   Git status for Bash and Zsh prompt.
 
+- **[Go Clean Template](https://github.com/evrone/go-clean-template)** by [Evrone](https://github.com/evrone)<br>
+  Clean Architecture template for Golang services.
+
 - **[Go Daemon](https://github.com/takama/daemon)** by [Igor Dolzhikov](https://github.com/takama)<br>
   A daemon package for use with Golang services.
 
