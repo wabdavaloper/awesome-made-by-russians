@@ -755,6 +755,9 @@
 
 - **[Pica](https://github.com/nodeca/pica)** by [Vitaly Puzrin](https://github.com/puzrin)<br>
   Resize image in browser with high quality and high speed.
+  
+- **[Playbook](https://github.com/avito-tech/playbook)** by [Avito.Tech](https://github.com/avito-tech)<br>
+  AvitoTech team playbook.
 
 - **[PonyORM](https://github.com/ponyorm/pony)** by [Alexander Kozlovsky](https://github.com/kozlovsky) & [Alexey Malashkevich](https://github.com/amalashkevich)<br>
   The most pythonic ORM with beautiful query syntax.
