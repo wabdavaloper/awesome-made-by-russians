@@ -479,6 +479,9 @@
 
 - **[Big-O Poster](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
+  
+- **[Bn.js](https://github.com/indutny/bn.js)** by [Fedor Indutny](https://github.com/indutny)<br>
+  BigNum in pure JavaScript.
 
 - **[Bt](https://github.com/atomashpolskiy/bt)** by [Andrei Tomashpolskiy](https://github.com/atomashpolskiy)<br>
   BitTorrent library and client with DHT, magnet links, encryption and more.
