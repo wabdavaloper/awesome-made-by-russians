@@ -629,6 +629,9 @@
 
 - **[Grafana Zabbix](https://github.com/alexanderzobnin/grafana-zabbix)** by [Alexander Zobnin](https://github.com/alexanderzobnin)<br>
   Zabbix plugin for Grafana dashboard.
+  
+- **[Grid](https://github.com/exyte/Grid)** by [Denis Obukhov](https://github.com/denis-obukhov)<br>
+  The most powerful Grid container missed in SwiftUI.
 
 - **[Grunt Webfont](https://github.com/sapegin/grunt-webfont)** by [Artem Sapegin](https://github.com/sapegin)<br>
   SVG to webfont converter for Grunt.
