@@ -717,14 +717,17 @@
 - **[LuaFun](https://github.com/luafun/luafun)** by [Roman Tsisyk](https://github.com/rtsisyk)<br>
   A high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.
 
+- **[Maigret](https://github.com/soxoj/maigret)** by [Soxoj](https://github.com/soxoj)<br>
+  Collect a dossier on a person by username from thousands of sites.
+
 - **[Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font)** by [Sergey Kupletsky](https://github.com/zavoloklom)<br>
   A full suite of official material design icons, with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop.
 
-- **[Monkberry](https://github.com/antonmedv/monkberry)** by [Anton Medvedev](https://github.com/antonmedv)<br>
-  JavaScript library for building web user interfaces.
-
 - **[Meteor Files](https://github.com/VeliovGroup/Meteor-Files)** by [VeliovGroup](https://github.com/VeliovGroup)<br>
   Upload files via DDP or HTTP to Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
+
+- **[Monkberry](https://github.com/antonmedv/monkberry)** by [Anton Medvedev](https://github.com/antonmedv)<br>
+  JavaScript library for building web user interfaces.
 
 - **[MPS](https://github.com/JetBrains/MPS)** by [JetBrains](https://github.com/JetBrains)<br>
   JetBrains Meta Programming System.
