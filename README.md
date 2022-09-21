@@ -1,4 +1,4 @@
-![Stop the war](./notice.png)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 # Awesome Made by Russians [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
