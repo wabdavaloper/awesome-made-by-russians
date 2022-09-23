@@ -24,6 +24,9 @@
 - **[The Fuck](https://github.com/nvbn/thefuck)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Magnificent app which corrects your previous console command.
 
+- **[V](https://github.com/vlang/v)** by [Alexander Medvednikov](https://github.com/medvednikov)<br>
+  Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
+
 ## > 10k ★
 
 - **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
@@ -133,9 +136,6 @@
 
 - **[Uppy](https://github.com/transloadit/uppy)** by [Artur Paikin](https://github.com/arturi), the [Transloadit](https://github.com/transloadit) team & contributors<br>
   Modular file uploader for the browser. Resumable uploads, webcam, screen recording, image cropping, Google Drive, Instagram, etc.
-
-- **[V](https://github.com/vlang/v)** by [Alexander Medvednikov](https://github.com/medvednikov)<br>
-  Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
 
 - **[WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)** by [Maxim Gumin](https://github.com/mxgmn)<br>
   Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
